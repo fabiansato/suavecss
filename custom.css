@@ -3101,7 +3101,8 @@ overflow: visible;
     width: 100%;
     float: left;
     margin-top: 10px;
-    
+    color: black;
+    text-align: center;
 }
 
 /*.contact-us-form .contact-us-form-wp .form-horizontal .controls{
@@ -3166,12 +3167,20 @@ overflow: visible;
 
 .contact-us-form .contact-us-form-wp input[type="submit"], .contact-us-form .contact-us-form-wp input#browse, .contact-us-form .contact-us-form-wp button[type="submit"]{
     background: white;
-    border: none;
+    border: 2px;
     font-family: 'Montserrat', regular;
     color: #167138;
     font-weight: bold;
     font-size: 2em;
     padding: 15px 40px;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-2%);
+    text-align: center;
+    left: 50%;
+    width: 200px;
 }
 
 .contact-us-form .contact-us-form-wp .form-horizontal .error{
@@ -3195,6 +3204,7 @@ overflow: visible;
 
 .contact-us-form .contact-us-form-wp .group_22 p.optIns a.optInLinks{
     border-bottom: none !important;
+    color: black;
 }
 
 .contact-us-form .contact-us-form-wp .codeTooltip .tooltiptextProdCode{
@@ -3305,7 +3315,7 @@ padding-right: 0px;
     text-transform: uppercase;
     font-family: 'Montserrat', sans-serif;
     font-weight: 900;
-    text-align: left;
+    text-align: center;
 
 }
 
