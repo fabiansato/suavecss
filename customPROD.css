@@ -1,0 +1,4993 @@
+/* siempre que haya un nuevo menú hay que verificar agregarlo con el id dentro del navbar */
+/* Ultimo cambio: 31-05-2021 13:00 */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@media (max-width: 767px){
+    .teaser7 li.span2 a {display: inline-block !important;}
+.container h3{margin-top:80px}
+}
+
+@media (max-width: 1252px){
+   
+    .container {
+        width: 100%!important;
+    }
+}
+
+.tree-toggler .expand {
+	background: url(/wp-content/uploads/sites/68/2021/04/down.png) no-repeat scroll 100% 6px !important;
+
+}
+.top-desktop {
+    background: url(/wp-content/uploads/sites/68/2021/04/down.png) no-repeat 2px 7px !important;
+    width: 12px !important;
+    text-indent: -99999px !important;
+    display: inline-block !important;
+}
+.liquido_title_2{
+    color: #482824;
+    text-transform: capitalize;
+    font-family: 'Montserrat', regular;
+    text-decoration: none;
+    width: 100%;
+    font-size: 14px;
+    font-weight: regular;
+    padding: 10px 0;
+    padding-bottom: 25px;
+    text-align: center;
+    display:block;
+    }  
+.teaser7 li.span2 figure img{
+    max-width: 100%;
+}
+.navbar .nav-collapse ul.nav ul li a {
+    color: #fff !important;
+    font-size: 14px !important;
+    line-height: 20px !important;
+    font-family: Montserrat !important;
+    font-weight: 400;
+}
+@media only screen and (min-width: 1361px) {
+    /* For tablets: */
+    .navbar-inner{   
+        padding-right: 5%;
+     }
+
+  }
+.navbar-inner{
+    padding-bottom: 20px;
+    background-color:#027034;
+    background-image:none;
+    filter:none;
+
+}
+
+@media only screen and (min-width: 700px) and (max-width: 1360px){
+    /* For tablets: */
+    .navbar-inner{  padding-right: 5%; }
+
+  }
+
+.navbar-fixed-top .navbar-inner, .navbar-static-top .navbar-inner {
+padding-top: 25px; 
+
+}
+@media (max-width:767px) {
+    .teaser7 li.span2 a{
+        height: auto !important;
+        text-align: center !important;
+    }
+
+    
+}
+
+@media (min-width:1500px) {
+    .middle-right {
+        position: absolute;
+        color: green;
+        bottom: 110px;
+        right: 0px;
+        padding-left: 593px !important;
+        padding-right: 0px;
+        }
+     
+}
+
+
+
+html {
+    width: 100%;
+    overflow-x: hidden;
+    padding-left: 0 !important;
+padding-right: 0 !important;
+width: 100% !important;
+}
+
+
+
+body {
+    width: 100%;
+    overflow-x: hidden;
+    padding-left: 0 !important;
+padding-right: 0 !important;
+width: 100% !important;
+}
+}
+iframe {
+    border: none;
+}
+
+iframe .footer {
+    display: none;
+}
+
+.october-leaf {
+    position: absolute;
+    background-color: transparent;
+    -webkit-transform: translateZ(0);
+    -moz-transform: translateZ(0);
+    transform: translateZ(0);
+    z-index: -1;
+}
+
+body {
+    position: relative;
+    width: 100%;
+    padding-top: none;
+    margin: auto;
+}
+body.page-id-1106 {
+        padding: 0;
+    width: 100%;
+}
+@media(min-width: 1260px) {
+    body {
+        width: 1260px
+    }
+    .container {
+        width: 100%!important;
+    }
+
+    .span12 {
+        width: 100%;
+        margin: 0;
+    }
+
+}
+.page-id-1106 .single-article-detail-inner {
+    padding: 0;
+    width: 100%;
+}
+.page-id-1106 #header {
+    display: none;
+}
+.opcion {
+    display: inline-block;
+    width: 50%;
+    float: left;
+}
+.page-id-1106 p {
+    margin: 0;
+}
+a.opcion:first-child {
+    background: white;
+}
+a.opcion:last-child {
+    background: purple;
+}
+
+body:before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-size: contain;
+    z-index: -1;
+}
+
+.category-acertijos:before, .category-dato-curioso:before, .category-sabias-que:before, .single-post:before, .page-id-4:before, .page-id-1397:before, 
+body.page-template-article_landing:before, body.page-id-1210:before, body.page-id-1213:before, body.page-id-1207:before {
+    background: none;
+    /*background-image: url("https://www.suave.com.ar/wp-content/uploads/sites/68/2016/09/burbujas.jpg");*/
+}
+
+.category-acertijos, .category-dato-curioso, .category-sabias-que, .single-post, .page-id-4, .page-id-1397, body.page-template-article_landing,
+body.page-id-1210, body.page-id-1213, body.page-id-1207, .page-id-1700, .page-id-1690, .page-id-1688, 
+.page-id-1698, .page-id-1696, .page-id-1686, .page-id-1694, .page-id-1692, .page-id-1702 {
+    background-image: url("/wp-content/uploads/sites/68/2016/09/background_kids-01.jpg");
+    background-color: #94259d;
+    background-repeat: repeat;
+    background-size: contain;
+    padding-top: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
+.category-acertijos .october-leaf, .category-dato-curioso .october-leaf, .category-sabias-que .october-leaf,
+.single-post .october-leaf, .page-id-4 .october-leaf, .page-id-1397 .october-leaf, body.page-template-article_landing .october-leaf,
+body.page-id-1210 .october-leaf, body.page-id-1213 .october-leaf, body.page-id-1207 .october-leaf, 
+.page-id-1700 .october-leaf, .page-id-1690 .october-leaf, .page-id-1688 .october-leaf, .page-id-1698 .october-leaf, 
+.page-id-1696 .october-leaf, .page-id-1686 .october-leaf, .page-id-1694 .october-leaf, .page-id-1692 .october-leaf, 
+.page-id-1702 .october-leaf {
+    background-image: url('/wp-content/uploads/sites/68/2016/09/burbujas.png');
+}
+
+.category-acertijos h1, .category-dato-curioso h1, .category-sabias-que h1, .single-post h1, .page-id-4 h1, .page-id-1397 h1, 
+body.page-template-article_landing h1, body.page-id-1210 h1, body.page-id-1213 h1, body.page-id-1207 h1,
+.category-acertijos h2, .category-dato-curioso h2, .category-sabias-que h2, .single-post h2, .page-id-4 h2, .page-id-1397 h2, 
+body.page-template-article_landing h2, body.page-id-1210 h2, body.page-id-1213 h2, body.page-id-1207 h2,
+.category-acertijos .cat-desc p, .category-dato-curioso .cat-desc p, .category-sabias-que .cat-desc p,
+.page-id-1700 h1, .page-id-1700 h2, .page-id-1700 p, .page-id-1690 h1,  .page-id-1690 h2,  .page-id-1690 p, 
+.page-id-1688 h1, .page-id-1688 h2,  .page-id-1688 p, .page-id-1698  h1,  .page-id-1698  h2,  .page-id-1698  p, 
+.page-id-1696 h1, .page-id-1696 h2, .page-id-1696 p, .page-id-1694 h1,  .page-id-1694 h2, .page-id-1694 p, 
+.page-id-1686 h1,  .page-id-1686 h2, .page-id-1686 p, .page-id-1692 h1,  .page-id-1692 h2, .page-id-1692 p, 
+.page-id-1702 h1,  .page-id-1702 h2, .page-id-1702 p {
+    color: white;
+    font-family: 'Montserrat', regular;
+    text-align: center;
+    font-weight: normal;
+    letter-spacing: 0.02em;
+}
+
+.category-acertijos h3.media-heading, .category-dato-curioso h3.media-heading, .category-sabias-que h3.media-heading {
+    display: none;
+}
+
+.category-acertijos h3, .category-dato-curioso h3, .category-sabias-que h3, .single-post h3, .page-id-4 h3, .page-id-1397 h3, 
+body.page-template-article_landing h3, body.page-id-1210 h3, body.page-id-1213 h3, body.page-id-1207 h3 {
+    color: white;
+    font-family: 'Montserrat', regular;
+    text-align: center;
+    font-weight: normal;
+    letter-spacing: 0.02em;
+    font-size: 1.6em;
+    font-size: 1em!important;
+    line-height: 1.3em!important;
+    min-height: 2.3em;
+}
+
+.page-id-4.page-template-default h2.show {
+    font-size: 1em;
+    width: 80%;
+    margin: auto;
+    line-height: 1.6em!important;
+}
+
+.category-acertijos p, .category-dato-curioso p, .category-sabias-que p, .single-post p, .page-id-4 p, .page-id-1397 p, 
+body.page-template-article_landing p, body.page-id-1210 p, body.page-id-1213 p, body.page-id-1207 p,
+.category-acertijos h4, .category-dato-curioso h4, .category-sabias-que h4, .single-post h4, .page-id-4 h4, .page-id-1397 h4, 
+body.page-template-article_landing h4, body.page-id-1210 h4, body.page-id-1213 h4, body.page-id-1207 h4 {
+    color: white;
+}
+
+
+
+.navbar .nav {
+    float: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 10%);
+}
+
+.menuWrapper {
+    position: absolute;
+    right: 23px;
+    bottom: -16px;
+    bottom: 56px;
+    z-index: 11;
+}
+
+.follow-icon a {
+    width: 21px;
+}
+
+.follow-icon img {
+    width: 100%;
+}
+
+.carousel-caption, #breadcrumb, .category-tips .btn-small {
+    display: none!important;
+} 
+
+#carousel_hardcode {
+    margin-left: -5.5%;
+}
+
+a.logo {
+    display: none;
+}
+
+.category-acertijos .menu.naturals, .category-dato-curioso .menu.naturals, .category-sabias-que .menu.naturals,
+.single-post .menu.naturals, .page-id-4 .menu.naturals, .page-id-1397 .menu.naturals, body.page-template-article_landing .menu.naturals,
+body.page-id-1210 .menu.naturals, body.page-id-1213 .menu.naturals, body.page-id-1207 .menu.naturals, .page-id-1700 .menu.naturals,
+.page-id-1690 .menu.naturals, .page-id-1688 .menu.naturals, .page-id-1698  .menu.naturals, .page-id-1696  .menu.naturals, 
+.page-id-1694  .menu.naturals, .page-id-1686  .menu.naturals, .page-id-1692  .menu.naturals, .page-id-1702  .menu.naturals {
+display: none;
+}
+
+body#home .menu.kids, body#product.archive .menu.kids, body#article.category-tips .menu.kids, body.page-id-1100 .menu.kids, body.page-id-1096 .menu.kids,
+body.single-products .menu.kids, .search-results .menu.kids, .page-id-610 .menu.kids, #search_result .menu.kids, .page-id-6 .menu.kids,
+.page-id-470 .menu.kids, .term-productos .menu.kids, .term-desodorantes .menu.kids, .term-capilar .menu.kids, .term-jabones .menu.kids, .page-id-1756 .menu.kids
+{
+display: none;
+}
+
+body.single-products .nav-tabs-wrapper {
+display: none;
+}
+
+.navbar .nav>li>a {
+
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px !important;
+    color: rgba(255,255,255,1);
+}
+
+.category-acertijos .navbar .nav>li>a, .category-dato-curioso .navbar .nav>li>a, .category-sabias-que .navbar .nav>li>a, .single-post .navbar .nav>li>a, 
+.page-id-4 .navbar .nav>li>a, .page-id-1397 .navbar .nav>li>a, body.page-template-article_landing .navbar .nav>li>a, body.page-id-1210 .navbar .nav>li>a, 
+body.page-id-1213 .navbar .nav>li>a, body.page-id-1207 .navbar .nav>li>a, .page-id-1700 .navbar .nav>li>a,
+.page-id-1690 .navbar .nav>li>a, .page-id-1688 .navbar .nav>li>a, .page-id-1698  .navbar .nav>li>a, .page-id-1696  .navbar .nav>li>a, 
+.page-id-1694  .navbar .nav>li>a, .page-id-1686  .navbar .nav>li>a, .page-id-1692  .navbar .nav>li>a, .page-id-1702  .navbar .nav>li>a {
+    color: white;
+    font-family: 'Montserrat', regular;
+    font-size: 0.7em;
+    letter-spacing: -0.02em;
+    margin-top: 8px;
+}
+
+.navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav>.active>a:focus {
+    background-color: transparent;
+    font-weight: bold;
+}
+.category-acertijos .navbar .nav>li>a:hover, .category-dato-curioso .navbar .nav>li>a:hover, .category-sabias-que .navbar .nav>li>a:hover, 
+.single-post .navbar .nav>li>a:hover, .page-id-4 .navbar .nav>li>a:hover, .page-id-1397 .navbar .nav>li>a:hover, 
+body.page-template-article_landing .navbar .nav>li>a:hover, body.page-id-1210 .navbar .nav>li>a:hover, 
+body.page-id-1213 .navbar .nav>li>a:hover, body.page-id-1207 .navbar .nav>li>a:hover {
+background: white;
+color: #7D5190;
+}
+
+.navbar .nav > li ul.nav li.active a {
+    color: white;
+}
+
+.navbar .nav>li>a:hover, .navbar .nav > li.active ul.nav li a:hover {
+    color: white;
+    background: #167138;
+    font-weight: 400;
+}
+
+.navbar .nav-collapse ul.nav ul {
+    border: none;  
+    background: #167138;
+    z-index: 2;
+    width: 350px;
+}
+
+.navbar .nav>li.to-kids>a:hover, .navbar .nav>li.to-naturals>a:hover, .navbar .nav>li.logo>a:hover {
+    color: initial;
+    background: transparent!important;
+}
+
+#menu-header-navigation > .menu { /* Logo Suave */
+    height: 48px;
+ /*   width: 130px;*/
+    font-size: 1.6em;
+    padding-top: 10px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    text-transform: uppercase;
+}
+.menu.to-kids {
+    background-image: url("/wp-content/uploads/sites/68/2016/06/menu_kids.png");
+    width: 200px;
+    height: 80px;
+    margin-top: -16px;
+    margin-left: 24px;
+    margin-right: 7px;
+}
+.menu.to-naturals {
+    background-image: url("/wp-content/uploads/sites/68/2016/09/to-naturals.png");
+    height: 79px;
+    margin-left: 0;
+    margin-top: -6px;
+    width: 165px;
+}
+.menu.logo {
+    height: 90px;
+    margin-left: 32px;
+    margin-right: 100px;
+    margin-top: -15px;
+    width: 155px;
+    padding: 0;
+}
+.menu.logo.kids {
+    background-image: url("/wp-content/uploads/sites/68/2016/06/logo_kids.png");
+    margin-left: 43px;
+    margin-right: 19px;
+}
+.menu.logo.naturals {
+    background-image: url("/wp-content/uploads/sites/68/2021/04/logo-png.png");
+}
+.menu.logo a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    padding: 0!important;
+}
+
+/*
+.menu.kids {
+    margin-right: 14px;
+}
+
+.menu.productos, .menu.hacelo {
+    background-image: url("/wp-content/uploads/sites/68/2016/06/menu_180.png");
+}
+
+.menu.hacelo {
+    padding: 15px 4px;
+}
+
+.menu.tips {
+    background-image: url("/wp-content/uploads/sites/68/2016/06/menu_110.png");
+    padding: 15px 22px;
+}
+
+.menu.quiz {
+    background-image: url("/wp-content/uploads/sites/68/2016/06/menu_90.png");
+    padding: 15px 6px;
+}
+
+.menu.youtube {
+    padding: 15px 18px;
+    background-image: url("/wp-content/uploads/sites/68/2016/06/menu_180.png");
+}
+
+.menu.juegos {
+    background-image: url("/wp-content/uploads/sites/68/2016/06/menu_140.png");
+}
+
+.menu.minilooks {
+    background-image: url("/wp-content/uploads/sites/68/2016/06/menu_140.png");
+    padding: 15px 10px;
+}
+
+.menu.conocelos {
+    background-image: url("/wp-content/uploads/sites/68/2016/06/menu_175.png");
+    padding: 15px 15px;
+}
+.menu.to-kids a, .menu.to-naturals a {
+    display: block;
+}
+
+.kids .menu {
+    margin-right: 10px;
+}
+
+.menu.youtube {
+    padding: 15px 6px;
+}
+
+.menu.juegos {
+    padding: 15px 12px;
+}
+
+.menu.minilooks {
+    padding: 15px 1px;
+}
+
+.menu.conocelos {
+    padding: 15px 2px;
+}
+*/
+.personaje.frutilla {
+    background: none;
+}
+.navbar .nav>li {
+    padding: 0;
+}
+
+.modern-header, .teaser3, .teaser4, .promo2, .promo3, .article-category .thumbnail, .teaser5, .teaser7, .single-product-detail-inner, .single-article-detail-inner, .teaser7 .thumbnail, article.search-results {
+    border: none;
+/*	background-color: transparent;*/
+    margin-bottom: 0;
+    overflow: hidden;
+} 
+
+.navbar-form {
+    position: absolute;
+    right: 0;
+    margin-top: 8px;
+    padding-right: 15px;
+    z-index: 9;
+}
+
+.form-search .btn-search {
+    position: absolute;
+    top: 11px;
+    right: 30px;
+    height: 19px;
+    width: 70px;
+    border-radius: 10px;
+    background: url("/wp-content/uploads/sites/68/2021/04/lupanueva.png") no-repeat center center;
+    background-size: contain;
+}
+
+.category-acertijos .form-search .btn-search, .category-dato-curioso .form-search .btn-search, .category-sabias-que .form-search .btn-search, 
+.single-post .form-search .btn-search, .page-id-4 .form-search .btn-search, .page-id-1397 .form-search .btn-search, 
+body.page-template-article_landing .form-search .btn-search, body.page-id-1210 .form-search .btn-search, body.page-id-1213 .form-search .btn-search, 
+body.page-id-1207 .form-search .btn-search {
+    background: url("/wp-content/uploads/sites/68/2021/04/lupanueva.png") no-repeat center center;
+}
+
+.form-search input[type='text'] {
+  
+    border-radius: 5px;
+    width: 200px;
+    padding-right: 20px;
+
+}
+
+.teasers .span4 {
+    width: 33%;
+    margin: 20px 0 0;
+    text-align: center;
+    vertical-align: bottom;
+    display: inline-block;
+    float: none;
+    margin: 0;
+}  
+
+#home .teasers .span4 {
+    width: 33%;
+}
+/*
+#main, #breadcrumb+div.container {
+    margin-top: -80px;
+    margin-bottom: 80px;
+}
+*/
+
+header {
+    z-index: 2;
+    position: relative;
+}
+/*
+#main>.container, #breadcrumb+div.container {
+    background-image: url("/wp-content/uploads/sites/68/2016/06/fondo_medio.png");
+    background-position: center center;
+    background-repeat: repeat;
+    width: 1125px;
+    position: relative;
+}   
+
+#main>.container:after, #breadcrumb+div.container:after{
+    content:"";
+    position:absolute;
+    top:-94px;
+    background:url("/wp-content/uploads/sites/68/2016/06/fondo_arriba.png") no-repeat center top;
+    width: 100%;
+    height: 95px;
+    z-index: 0;
+}
+*/
+
+#breadcrumb+div.container article div, #breadcrumb+div.container article, #breadcrumb+div.container section {
+    float: none;
+}
+
+.carousel {
+    overflow: hidden;
+    width: 102%;
+    margin-left: -1%;
+    padding-top: 0;
+    padding-bottom: 15px;
+    margin-bottom: 5px;
+} 
+
+body.page-template-article_landing .carousel {
+    width: 100%;
+    margin-left: -1.5%;
+    padding-top: 13px;
+    margin-bottom: 0;
+}
+
+.carousel-inner {
+    margin: 0;
+}
+
+.carousel img {
+    width: 100%;
+} 
+
+ol.carousel-indicators {
+    position: relative;
+    width: 100%;
+    text-align: center;
+    padding-left: 0.6%;
+    margin-top: -17px;
+}
+
+body.page-template-article_landing ol.carousel-indicators {
+    margin-top: -14px;
+}
+
+ol.carousel-indicators li {
+    float: none;
+    display: inline-block;
+    background-color: #519e4a;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin: 0 4px;
+}  
+
+body.page-template-article_landing ol.carousel-indicators li {
+    background: #ffeb26;
+}
+
+.carousel-indicators li.active {
+    background-color: white!important;
+}
+
+.tax-product-category .span9 {
+    width: 100%;
+    padding-right: 30px;
+    box-sizing: border-box;
+} 
+
+.tax-product-category .teaser7 li.span2, .page-id-1756 .teaser7 li.span2 {
+    width: 25%;
+    margin: 0 1%;
+    min-height: 350px
+}  
+
+@media(max-width: 769px) {
+.page-id-1756 .teaser7 li.span2 {
+    width: 100%;
+    margin: 0;
+}
+
+.page-id-1756 .teaser7 li.span2 figure {
+    width: 100%;
+}
+}
+
+.tax-product-category .teaser7 li.span2 a, .page-id-1756 .teaser7 li.span2 a {
+    display: block;
+    max-width: 450px;
+    margin: auto;
+}
+
+.tax-product-category .teaser7 li.span2 figure img, .page-id-1756 .teaser7 li.span2 figure img {
+    max-width: 1400px;
+    width: 100%;
+} 
+
+.term-productos .teaser7 li.span2 figure img, .term-capilar .teaser7 li.span2 figure img, 
+.term-jabones .teaser7 li.span2 figure img, .term-desodorantes .teaser7 li.span2 figure img, .page-id-1756 .teaser7 li.span2 figure img {
+    max-width: 100%;
+}
+
+.term-productos #main, .term-capilar #main, .term-jabones #main, .term-desodorantes #main {
+    padding-bottom: 100px;
+}
+
+.tax-product-category .teaser7 li.span2 .btn-link {
+    display: none;
+}   
+
+
+
+.navbar .nav-collapse>div>ul.nav {
+    float: right;
+}  
+
+#home .teasers {
+    text-align: center;
+    padding: 5px 16% 0 17.5%;
+    padding-top: 0;
+} 
+
+.teasers img {
+    max-width: 97%;
+    vertical-align: bottom;
+}    
+.category-sabias-que .teasers img {
+    height: 228px;
+}
+.carousel-control {
+    margin-top: 10px;
+    width: 45px;
+    height: 45px;
+}
+
+.carousel .carousel-control.right {
+    right: 17px;
+    background: url("/wp-content/uploads/sites/68/2016/06/flecha.png") no-repeat center center;
+    background-size: cover;
+    background-position: 0 0;
+}
+
+.carousel-control.left {
+    left: 17px;
+    background: url("/wp-content/uploads/sites/68/2016/06/flecha.png") no-repeat center center;
+    background-size: cover;
+    background-position: 0 0;
+    -ms-transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}     
+
+.term-naturals .carousel {
+    width: 98.5%;
+    margin: 35px 0.7% 10px;
+}
+
+.category-tips .carousel.hero_carousel_471 {
+    margin-top: -24px;
+    width: 98.5%;
+    margin-left: 1.7%;
+    margin-bottom: 0;
+}
+
+.cat-desc {
+    position: absolute;
+    top: 795px;
+    width: 100%;
+    margin: 20px auto;
+    text-align: center;
+    color: #aaa;
+}
+
+.category-acertijos .cat-desc, .category-dato-curioso .cat-desc, .category-sabias-que .cat-desc {
+    position: relative;
+    top: 0;
+}
+
+.cat-desc p {
+    font-size: 1.35em;
+    color: inherit;
+    width: 52%;
+    margin: auto;
+    line-height: 1em;
+}
+
+.term-naturals ul.thumbnails, .category-tips ul.thumbnails {
+    width: 100%;
+    padding: 0 4%;
+    box-sizing: border-box;
+}
+
+.category-tips ul.thumbnails {
+    padding: 9px 0 0 9.8%;
+}
+
+.category-tips .span6 {
+    width: 33%;
+    margin: 0;
+    padding-right: 6%;
+    box-sizing: border-box;
+    margin-bottom: 12px;
+}
+
+.term-naturals .teaser7 li.span2 {
+    margin-bottom: 45px;
+}
+
+.term-naturals .teaser7 li.span2 a {
+    /*cursor: default;*/
+}
+
+.category-tips h3 {
+    background-image: url("/wp-content/uploads/sites/68/2016/06/h3_tips.png");
+    background-repeat: no-repeat;
+    background-size: 170% 100%;
+    color: white;
+    font-size: 1.5em;
+    padding-left: 11%;
+    font-family: Trebuchet MS,Helvetica,sans-serif;
+    padding-top: 7px;
+    margin-bottom: 30px;
+    padding-bottom: 3px;
+    background-position: -21px 0;
+}
+
+.category-tips .teaser5 .media-body p {
+    color: #b08500;
+    line-height: 1.65em;
+    font-size: 1.25em;
+    letter-spacing: 0.01em;
+    font-family: Arial, sans-serif;
+    min-height: 17em;
+    position: relative;
+}
+
+.category-tips .thumbnails p:after {
+    display: block;
+    content: url("/wp-content/uploads/sites/68/2016/09/flor.png");
+    position: absolute;
+    bottom: 0;
+}
+
+.kids a.logo.pull-left {
+    margin-top: 20px;
+    margin-bottom: -17px;
+}
+
+.article-landing .teasers {
+    padding: 0 9.5% 31px 7.5%;
+}
+
+.article-landing .teasers img {
+    max-width: 90%;
+}
+
+.article-landing .teasers .teaser3 img {
+    max-width: 130%;
+    margin-left: -10%;
+}
+
+body.kids:before {
+    content: url("/wp-content/uploads/sites/68/2016/06/personaje_pulpo.png");
+    position: absolute;
+    transform: scale(.99);
+    left: 5.3%;
+    top: 356px;
+}
+
+body.kids #header:before {
+    content: url("/wp-content/uploads/sites/68/2016/06/personaje_frutilla.png");
+    position: absolute;
+    transform: scale(.99);
+    right: 4%;
+    top: 90px;
+}
+
+body.kids:after {
+    content: url("/wp-content/uploads/sites/68/2016/06/personaje_mono.png");
+    position: absolute;
+    transform: scale(.99);
+    left: 8.7%;
+    top: 894px;
+}
+
+body.kids #header:after {
+    content: url("/wp-content/uploads/sites/68/2016/06/personaje_tucan.png");
+    position: absolute;
+    transform: scale(.99);
+    right: 10.5%;
+    top: 705px;
+}
+
+.page-template-default h1, .page-template-default h2 {
+    display:none;
+}
+
+.page-template-default h1.show, .page-template-default h2.show {
+    display: block;
+    line-height: initial!important;
+    text-indent: initial;
+}
+
+.page-template-default h1.show {
+    font-size: 2.7em;
+    letter-spacing: 0.15em;
+    margin-bottom: 14px;
+}
+
+.page-template-default h2.show {
+    font-size: 1em!important;
+    line-height: 1.7em!important;
+    letter-spacing: 0.09em;
+}
+
+.page-template-default h2.show+h2.show {
+    font-size: 1.2em; 
+}
+
+.a_mano .teasers .span4 {
+    vertical-align: middle;
+}
+
+.a_mano .teasers {
+    width: 100%;
+    margin-left: 0;
+    padding: 120px 6%;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.a_mano .teasers img {
+    max-width: 85%;
+}
+
+.a_mano .teasers img.cartel {
+    max-width: 43%;
+    margin-bottom: 20px;
+    margin-right: 14px;
+}
+
+.a_mano .teasers .max img {
+    max-width: 99%;
+}
+
+.a_mano .teasers img.full {
+    width: 100%;
+    max-width: 100%;
+    margin-top: 10px;
+}
+
+.category-dato-curioso .teasers li, .category-sabias-que .teasers li {
+    width: 29%;
+}
+
+.category-acertijos .teaser5 a, .category-dato-curioso .teaser5 a, .category-sabias-que .teaser5 a {
+    display: none;
+}
+
+.category-acertijos .span6 {
+    width: 30%;
+    text-align: center;
+}
+
+p.respuesta {
+    display: inline-block;
+    position: relative;
+    margin-bottom: 25px;
+    width: 180px;
+    text-align: center;
+    padding: 4px;
+    cursor: pointer;
+}
+
+p.respuesta img {
+    width: 100%; 
+}
+
+.respuesta:hover .show {
+    display: none;
+}
+
+.respuesta:hover .hide {
+    display: block;
+}
+
+#second > .nav > li > a {
+    display: none;
+}
+
+#second ul ul>li, #second ul ul li.last>a {
+    display: none;
+    border: none;
+}
+
+#second ul ul li.last, #second ul ul li.last li, #second ul ul ul>li.last>a {
+    display: block;
+}
+
+.span2, .span10 {
+margin: 0;
+}
+
+.span2+.span10 {
+    float: right;
+    margin: 0;
+}
+
+.row {
+    margin-left: -20px;
+}
+
+.single-article-detail article> h2 {
+    display: none;
+}
+
+#product aside.span2 {
+    display: none;
+}
+
+#product section.span10 {
+    width: 100%;
+    float: none;
+    margin: 0 20px;
+}
+
+#product section.span7 {
+    width: 100%;
+    margin: 0;
+    padding: 0 5% 0 7.5%;
+    box-sizing: border-box;
+}
+
+#product ul.thumbnails {
+    padding: 0;
+    margin: 0;
+}
+
+.personaje {
+    width: 24.7%;
+    vertical-align: top;
+    display: inline-block;
+}
+
+.page-id-1207 .personaje {
+    width: 21%;
+    display: inline-block;
+    float: left!important;
+    margin-right: 5.2%;
+}
+
+.page-id-1207 .single-article-detail-inner {
+    overflow: visible; 
+}
+
+.page-id-1207 .personaje:last-child {
+    margin-right: 0;
+}
+
+.page-id-1207 .personaje p {
+    text-align: left;
+    letter-spacing: 0.06em;
+    margin-bottom: 22px;
+    text-align: center;
+}
+
+.page-id-1207 .personaje .info {
+    text-align: center;  
+    min-height: 40em;
+}
+
+.page-id-1207 .personaje .info> img {
+    width: 86%;
+    margin: 12px 0 -14px;
+}
+
+.page-id-1207 .personaje a.boton {
+    display: block;
+    text-align: center;
+    font-size: 1.4em;
+    text-transform: uppercase;
+    font-family: Arial, sans-serif;
+    font-weight: 600;
+    letter-spacing: 0.07em;
+    margin-top: 27px!important;
+    margin-left: -9%;
+    padding: 17px 10px;
+    width: 109%;
+    border-radius: 10px;
+    margin-bottom: -5px;
+}
+
+.verde {
+    background: #b7ffb6;
+    color: #00ce00;
+}
+
+.rojo {
+    background: #efcee3;
+    color: #ff1960;
+}
+
+.azul {
+    background: #9beff9;
+    color: #10a0d5;
+}
+
+.amarillo {
+    background: #fdf066;
+    color: #d41936;
+}
+
+.naranja {
+    background: #ffa267;
+    color: #f7380b;
+}
+
+.page-id-1207 .personaje .info+p {
+    text-align: center;
+}
+
+.page-id-1207 .personaje p img {
+    margin-bottom: -4px;
+}
+
+.page-id-1207 .personaje p img:last-child {
+    width: 81%;
+}
+
+.category-acertijos .cat-desc p, .category-dato-curioso .cat-desc p, .category-sabias-que .cat-desc p {
+    font-size: 2.7em;
+    margin-top: 49px;
+    letter-spacing: 0.08em;
+}
+
+.category-acertijos ul.thumbnails.teasers, .category-sabias-que ul.thumbnails.teasers, .category-dato-curioso ul.thumbnails.teasers {
+    padding: 22px 12% 20px 8%;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.category-acertijos ul.thumbnails.teasers li, .category-sabias-que ul.thumbnails.teasers li, .category-dato-curioso ul.thumbnails.teasers li {
+    text-align: center;
+    margin: 0;
+    width: 28%;
+    margin-right: 6%;
+}
+
+.category-sabias-que ul.thumbnails.teasers li:last-child, 
+.category-dato-curioso ul.thumbnails.teasers li:last-child {
+    margin-right: 0;
+    margin-left: 4%;
+}
+
+.category-acertijos ul.thumbnails.teasers li p, .category-sabias-que ul.thumbnails.teasers li p, 
+.category-dato-curioso ul.thumbnails.teasers li p {
+    font-size: 1.25em!important;
+    font-family: Arial, sans-serif;
+    line-height: 1.8em;
+    letter-spacing: 0.09em!important;
+}
+
+.category-acertijos ul.thumbnails.teasers li h3+p+p, .category-sabias-que ul.thumbnails.teasers li h3+p+p,
+.category-dato-curioso ul.thumbnails.teasers li h3+p+p {
+    margin-top: 19px;
+}
+
+.category-acertijos ul.thumbnails.teasers li h3+p+p {
+    height: 9.5em;
+    margin: -12px auto 10px;
+}
+
+.category-acertijos ul.thumbnails.teasers li:first-child h3+p+p {
+    width: 80%;
+}
+
+.category-acertijos ul.thumbnails.teasers li:nth-child(4) h3+p+p,
+.category-acertijos ul.thumbnails.teasers li:nth-child(5) h3+p+p {
+    height: 7em;
+}
+
+.category-acertijos ul.thumbnails.teasers li:nth-child(3n) {
+    margin-right: 0;
+}
+
+.category-acertijos ul.thumbnails.teasers {
+    padding: 22px 7%;
+}
+
+.single-post aside.span2 {
+    margin-left: 30px;
+    margin-top: 77px;
+    width: 13.5%;
+    margin-top: 13.5%;
+padding-left: 1%;
+    box-sizing: border-box;
+}
+
+.single-post .span10 {
+    background-size: cover;
+    width: 82%;
+    margin-right: 2%;
+    margin-top: 58px;
+    padding: 40px 1.8%;
+    box-sizing: border-box;
+    margin-bottom: 25px;
+}
+
+.single-post .span10:before {
+    content: url("/wp-content/uploads/sites/68/2016/09/tips1.png");
+    position: absolute;
+    left: 45.7%;
+    margin-top: -70px;
+}
+
+.single-post h4 {
+    color: #db325d;
+    font-size: 1.45em;
+    letter-spacing: 0.037em;
+    margin-bottom: 23px;
+}
+
+.single-post .left-nav ul.nav {
+    background: none;
+    border: none!important;
+    text-align: center;
+}
+
+.single-post .left-nav ul.nav ul.nav {
+    border: none;
+}
+
+.single-post .left-nav .nav a {
+    background: #ff2967;
+    border: none;
+    color: white;
+    font-family: 'azo-sans-uber', cursive;
+    font-size: 1.4em;
+    letter-spacing: 0.1em;
+    padding: 8px 0 3px;
+    margin-bottom: 4px;
+    padding: 6px 0 5px;
+}
+
+.single-post .left-nav .nav a.active {
+    background: #f16b74;
+    border: none;
+}
+
+.single-post .left-nav ul.nav li, .single-post .left-nav ul.nav ul.nav {
+    border: none!important;
+}
+
+.single-post .span10 ul {
+    list-style-image: url("/wp-content/uploads/sites/68/2016/09/bullet.png");
+    margin-bottom: 21px;
+}
+
+.single-post .span10 ul li, .single-post .span10 p {
+    font-family: Arial, sans-serif;
+    color: black;
+    font-size: 1.3em;
+    line-height: 1.3em;
+    letter-spacing: 0.05em;
+    margin-bottom: 0;
+}
+
+.modern-footer {
+    z-index: 2;
+    position: relative;
+    border: none;
+    padding: 42px 0 10px;
+}
+
+.modern-footer:after, .modern-footer:before {
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    display: block;
+    top: 0;
+    left: 100%;
+    z-index: 3;
+    background-color: #F5F5F5;
+    background-image: none;
+    border: none;
+}
+
+.modern-footer:before {
+    left: -100%;
+}
+
+.modern-footer li {
+    border-right: 1px solid #ffffff;
+    padding: 0 10px!important;
+}
+
+.modern-footer li:first-child, .modern-footer li:last-child {
+    border: none;
+}
+
+body .modern-footer a {
+    color: #ffffff;
+    font-family: 'Montserrat', cursive;
+    font-size: 1.3em;
+    margin-top: 26px;
+}
+
+.category-acertijos .modern-footer, .category-dato-curioso .modern-footer, .category-sabias-que .modern-footer, .single-post .modern-footer, 
+.page-id-4 .modern-footer, .page-id-1397 .modern-footer, body.page-template-article_landing .modern-footer, body.page-id-1210 .modern-footer, 
+body.page-id-1213 .modern-footer, body.page-id-1207 .modern-footer, .category-acertijos .modern-footer:after, .category-dato-curioso .modern-footer:after,
+.category-sabias-que .modern-footer:after, .single-post .modern-footer:after, .page-id-4 .modern-footer:after, .page-id-1397 .modern-footer:after, 
+body.page-template-article_landing .modern-footer:after, body.page-id-1210 .modern-footer:after, body.page-id-1213 .modern-footer:after, 
+body.page-id-1207 .modern-footer:after, .category-acertijos .modern-footer:before, .category-dato-curioso .modern-footer:before, 
+.category-sabias-que .modern-footer:before, .single-post .modern-footer:before, .page-id-4 .modern-footer:before, .page-id-1397 .modern-footer:before, 
+body.page-template-article_landing .modern-footer:before, body.page-id-1210 .modern-footer:before, body.page-id-1213 .modern-footer:before, 
+body.page-id-1207 .modern-footer:before, .page-id-1700 .modern-footer, .page-id-1700 .modern-footer:after, .page-id-1700 .modern-footer:before,
+.page-id-1690 .modern-footer,  .page-id-1690 .modern-footer:before,  .page-id-1690 .modern-footer:after, 
+.page-id-1688 .modern-footer,  .page-id-1688 .modern-footer:before,  .page-id-1688 .modern-footer:after, 
+.page-id-1698  .modern-footer,  .page-id-1698  .modern-footer:before,  .page-id-1698  .modern-footer:after, 
+.page-id-1696  .modern-footer,  .page-id-1696  .modern-footer:before,  .page-id-1696  .modern-footer:after, 
+.page-id-1694  .modern-footer,  .page-id-1694  .modern-footer:before,  .page-id-1694  .modern-footer:after, 
+.page-id-1686  .modern-footer,  .page-id-1686  .modern-footer:before,  .page-id-1686  .modern-footer:after, 
+.page-id-1692  .modern-footer,  .page-id-1692  .modern-footer:before,  .page-id-1692  .modern-footer:after, 
+.page-id-1702  .modern-footer,  .page-id-1702  .modern-footer:before,  .page-id-1702  .modern-footer:after {
+    background: #7d5190;
+}
+
+.unilever.logo {
+    background: url(/wp-content/uploads/sites/115/2021/04/Logo-white-transparent-Pantone2728C.png) no-repeat center center;
+    background-size: contain;
+    padding-top: -20px;
+    width: 140px;
+    height: 140px;
+}
+
+.category-acertijos .unilever.logo, .category-dato-curioso .unilever.logo, .category-sabias-que .unilever.logo, .single-post .unilever.logo, 
+.page-id-4 .unilever.logo, .page-id-1397 .unilever.logo, body.page-template-article_landing .unilever.logo, body.page-id-1210 .unilever.logo, 
+body.page-id-1213 .unilever.logo, body.page-id-1207 .unilever.logo, .page-id-1700 .unilever.logo, .page-id-1690 .unilever.logo, 
+.page-id-1688 .unilever.logo, .page-id-1698  .unilever.logo, .page-id-1696  .unilever.logo, .page-id-1694  .unilever.logo, 
+.page-id-1686  .unilever.logo, .page-id-1692  .unilever.logo, .page-id-1702  .unilever.logo {
+     background: url("/wp-content/uploads/sites/68/2016/09/unilever_blanco.png") no-repeat center center;
+}
+
+.category-acertijos .modern-footer a, .category-dato-curioso .modern-footer a, .category-sabias-que .modern-footer a, .single-post .modern-footer a, 
+.page-id-4 .modern-footer a, .page-id-1397 .modern-footer a, body.page-template-article_landing .modern-footer a, body.page-id-1210 .modern-footer a, 
+body.page-id-1213 .modern-footer a, body.page-id-1207 .modern-footer a, .category-acertijos .modern-footer p, .category-dato-curioso .modern-footer p, 
+.category-sabias-que .modern-footer p, .single-post .modern-footer p, .page-id-4 .modern-footer p, .page-id-1397 .modern-footer p, 
+body.page-template-article_landing .modern-footer p, body.page-id-1210 .modern-footer p, body.page-id-1213 .modern-footer p, 
+body.page-id-1207 .modern-footer p, .page-id-1700 .modern-footer p, .page-id-1700 .modern-footer a, .page-id-1690 .modern-footer p,  .page-id-1690 .modern-footer a, 
+.page-id-1688 .modern-footer p,  .page-id-1688 .modern-footer a, .page-id-1698  .modern-footer p,  .page-id-1698  .modern-footer a, 
+.page-id-1696  .modern-footer p,  .page-id-1696  .modern-footer a, .page-id-1694  .modern-footer p,  .page-id-1694  .modern-footer a, .page-id-1686  .modern-footer p,  .page-id-1686  .modern-footer a, 
+.page-id-1692  .modern-footer p,  .page-id-1692  .modern-footer a, .page-id-1702  .modern-footer p,  .page-id-1702  .modern-footer a {
+    color: white;
+}
+
+ul.inline {
+    margin-bottom: 0;
+}
+
+.footer-banner {
+    margin-top: -67px;
+}
+
+.social_footer+p {
+    font-size: 1.1em;
+    margin-top: 6px;
+    font-weight: 300;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.social_footer img {
+    width: 35px;
+    margin: 10px 20px;
+}
+
+.social_footer, .social_footer+p {
+    padding-left: 0px;
+    padding-top: 20px;
+}
+
+#footer_nav .unilever.logo a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    padding-top: -10px;
+}
+
+.category-tips .cat-desc {
+    display: none;
+}
+
+.destacado {
+    background: #a488b4;
+    margin-left: 0%;
+    width: 100%;
+    margin-top: 27px;
+    padding: 23px 12%;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.destacado p {
+    font-family: "azo-sans-uber",sans-serif;
+    margin: 0;
+    font-size: 1em!important;
+    line-height: 1.6em!important;
+    letter-spacing: 0.15em!important;
+}
+
+.page-id-4 #breadcrumb+.container, .category-acertijos #main, .category-dato-curioso #main, 
+.category-sabias-que #main, .page-id-1207 #breadcrumb+.container, .single-post #main, 
+body.page-template-article_landing #breadcrumb+.container, body.page-id-1210 #breadcrumb+.container, 
+body.page-id-1213 #breadcrumb+.container, body.page-id-1207 #breadcrumb+.container, 
+body.page-id-1397 #breadcrumb+.container, .page-id-1700 #breadcrumb+.container, .page-id-1690 #breadcrumb+.container, 
+.page-id-1688 #breadcrumb+.container, .page-id-1698  #breadcrumb+.container, .page-id-1696  #breadcrumb+.container, .page-id-1694  #breadcrumb+.container, 
+.page-id-1686  #breadcrumb+.container, .page-id-1692  #breadcrumb+.container, .page-id-1702  #breadcrumb+.container {
+    background: url("/wp-content/uploads/sites/68/2016/09/burbujitas.jpg") repeat top center;
+    background-size: cover;
+}
+
+.page-id-4 .single-article-detail, .page-id-1207 .single-article-detail {
+    padding: 25px 7%;
+    box-sizing: border-box;
+}
+
+.page-id-4 h1.show {
+    margin-top: 25px;
+}
+
+.page-id-4 .personaje {
+    margin-top: 19px;
+    width: 22%;
+    margin-right: 3.5%;
+}
+
+.page-id-4 .personaje:last-child {
+    margin-right: 0;
+}
+
+.page-id-4 .personaje img {
+    width: 108%;
+    max-width: 120%;
+}
+
+.page-id-4 h4 {
+    font-size: 1em;
+    margin: 22px 0;
+    height: 2.6em;
+}
+
+.page-id-4 .single-article-detail-inner {
+    overflow: visible; 
+}
+
+#consejos {
+    margin: 11px 0 0;
+}
+
+.consejo {
+    width: 25%;
+    float: left!important;
+    padding: 0 3% 0 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.consejo h4, .consejo p {
+    text-align: left;
+}
+
+.consejo h4 {
+    margin: -13px 0 -4px;
+    font-size: 1.2em;
+    width: 110%;
+}
+
+.consejo p {
+    font-size: 1.15em;
+}
+
+.clear {
+    clear: both;
+}
+
+.page-id-1210 h1.show {
+    margin-top: 31px;
+    letter-spacing: 0.08em;
+    margin-bottom: 5px;
+}
+
+.page-id-1210 #personajes {
+    padding: 64px 5% 30px 9%;
+}
+
+.page-id-1210 .personaje {
+    padding: 0 2% 0 0;
+    box-sizing: border-box;
+    width: 23%;
+    margin: 0 .8% 25px 1%;
+}
+
+.page-id-1210 .personaje:nth-child(4n) {
+    margin-right: 0;
+}
+
+.page-id-1210 h3, .page-id-4 h3 {
+    font-size: 1em!important;
+    letter-spacing: 0.1em!important;
+    margin-top: 20px;
+    margin-bottom: 3px;
+}
+
+.page-id-1210 p, .page-id-4 p, .page-id-1207 .personaje p {
+    font-size: 1.1em;
+    letter-spacing: 0.08em;
+    padding-right: 5%;
+    line-height: 1.25em;
+    text-align: center;
+}
+
+.page-id-1210 .personaje h3+p {
+    height: 12em;
+}
+
+.page-id-1210 .personaje:nth-child(n+5) h3+p {
+    height: 6.5em;
+}
+
+.page-id-1210 .boton {
+    display: block;
+    margin: auto;
+    width: 82%;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 1.4em;
+    font-weight: bold;
+    padding: 19px 0 17px;
+    box-sizing: border-box;
+}
+
+a.link {
+    color: yellow;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.media-viewer {
+    float: left!important;
+}
+
+.media-viewer iframe {
+    width: 560px;
+    height: 315px;
+}
+
+.thumbnails {
+    overflow: hidden;
+}
+
+#youtube_footer {
+    width: 1040px;
+    margin: auto;
+}
+
+#yt-container {
+    margin: 0;
+    overflow: hidden;
+}
+
+.video-item {
+    float: left!important;
+    box-sizing: border-box;
+    cursor: pointer;
+    overflow: hidden;
+    width: 50%;
+    height: 105px;
+    height: 157px;
+    padding: 0;
+}
+
+.video-item.active {
+    opacity: .50;
+}
+
+#yt-container img {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.pagination {
+    padding: 0;
+    text-align: right;
+}
+
+.pagination span {
+    color: white;
+    border: 1px solid white;
+    margin: 0 0 0 20px;
+    padding: 7px 20px 8px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.page-id-1397 .single-article-detail-inner {
+    padding: 0;
+    width: 100%
+}
+
+.page-id-1397 h2.show {
+    margin: 50px auto 70px;
+    max-width: 600px;
+    line-height: 1.5em!important;
+    letter-spacing: 0.1em;
+}
+
+.page-id-1397 p>a {
+    display: block;
+    margin: 23px 40% 130px;
+}
+
+.frutilla {
+background: url("/wp-content/uploads/sites/68/2016/09/frutilla.png") no-repeat top left;
+    background-size: contain;
+    display: inline-block;
+    position: relative;
+    width: 50%;
+float: left;
+vertical-align: top;
+background-position-x: 75%;
+}
+
+.frutilla .caja_h4 {
+    position: absolute;
+    top: 6%;
+    right: 6%;
+    width: 43%;
+    height: 57%;
+}
+.frutilla .table_h4 {
+display: table;
+    height: 100%;
+}
+
+.frutilla h4 {
+    font-family: 'azo-sans-uber', cursive;
+    text-align: center;
+    line-height: 1.25em;
+    letter-spacing: 0.1em;
+display: table-cell;
+vertical-align: middle;
+}
+
+.dummy {
+    margin-top: 65%;
+}
+
+.materiales {
+background: url("/wp-content/uploads/sites/68/2016/09/postit.png") no-repeat top left;
+    background-size: contain;
+    display: inline-block;
+    position: relative;
+    width: 47%;
+    vertical-align: top;
+    float: left;
+    margin-left: 3%;
+    margin-top: -8px;
+}
+
+.lista_materiales {
+    position: absolute; 
+    top: 0;
+    padding: 10% 5.5%;
+    width: 74%;
+}
+
+.materiales .dummy {
+    margin-top: 69.5%;
+}
+
+.materiales h4 {
+    letter-spacing: 0.01em;
+    margin-bottom: 2px;
+    font-family: arial;
+}
+
+.single-post .span10 .materiales ul {
+    margin-left: 0;
+    list-style: none;
+}
+
+.como { 
+clear: both;
+    padding: 0 1.5% 0 3%;
+}
+
+.como_contenido {
+background: url("/wp-content/uploads/sites/68/2016/09/hoja.png") no-repeat top left;
+    background-size: cover;
+    padding: 17px 6% 50px 3.2%;
+    background-position-y: -7px!important;
+}
+
+.como_contenido h4 {
+    letter-spacing: -0.02em;
+    font-family: Arial;
+}
+
+.single-post .span10 .como p {
+    letter-spacing: 0.047em;
+}
+
+.menu_tips {
+display: none;
+}
+
+.menu.logo a {
+    color: transparent!important;
+}
+
+.single-products article.span10, .single-products article.span12 {
+    width: 100%;
+    padding: 70px 15% 40px;
+    box-sizing: border-box;
+}
+
+.single-products h2 {
+    font-family: 'Montserrat', cursive;
+    text-transform: uppercase;
+    color: #167138;
+    position: relative;
+    height: 2.5em;
+}
+
+.single-products span.wpined-title {
+/* position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);*/
+}
+
+.single-products figure.pull-left {
+    margin-top: -40px;
+}
+
+.single-products p {
+    color: #482824 !important;
+    font-family:'Montserrat', sans-serifrial !important;
+    max-width: 100%;
+    font-size: 1.05em;
+    line-height: 1.3em;
+}
+
+.text {
+    position: relative;
+    min-height: 17em;
+}
+
+img.ml {
+    position: absolute;
+    left: calc(100% - 50px);
+    bottom: 0;
+}
+
+.single-products p a {
+    color: #482824;
+    text-transform: capitalize;
+    font-family: Montserrat, Helvetica, Sans-Serif;
+    text-decoration: none;
+    width: 200px;
+    font-size: 16px;
+    font-weight: regular;
+
+text-align: center;
+display: inline-block
+}
+
+
+.search-results section.span9 {
+    width: 97%;
+    padding: 50px 15px;
+    box-sizing: border-box;
+}
+
+.search-results h2 {
+    font-family: 'Montserrat', cursive;
+    color: #167138;
+}
+
+article.search-results p {
+    color: #167138;
+    font-family: Arial;
+}
+
+.search-list.article-item {
+    display: none;
+}
+
+.search-results .search-list h3 {
+    color: #167138;
+    font-family: Arial;
+    font-size: 1.1em;
+    margin-top: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.search-list span {
+    color: #167138;
+    font-family: Arial;
+}
+
+.search-results a.btn.pull-right {
+    background: #167138;
+    font-family: Arial;
+    color: white;
+    border: none;
+    border-radius: 0;
+    font-size: 0.9em;
+    margin: 40px 0 0;
+}
+
+.archive.category-tips figure {
+    text-align: center;
+}
+
+.archive.category-tips .carousel img {
+    width: 80%;
+    margin: 40px auto 0;
+}
+
+
+@media(max-width: 1441px) {
+    .carousel {
+        overflow: hidden;
+        width: 102%;
+        margin-left: -1%;
+    }
+
+    body.kids #header:before {
+        transform: scale(.5);
+        right: -6%;
+        top: 0;
+    }
+
+    body.kids #header:after {
+        transform: scale(.7);
+        right: 1%;
+    }
+
+    body.kids:before {
+        transform: scale(.5);
+        left: -5%;
+        top: 160px;
+    }
+
+    body.kids:after {
+    transform: scale(.6);
+    left: -3%;
+    top: 910px;
+    }
+}     
+
+@media (max-width: 1025px) {
+    .navbar-static-top .container, .navbar-fixed-top .container, .navbar-fixed-bottom .container {
+    width: 100%;
+}
+
+.navbar-form {
+position: relative; 
+}
+
+.menu.logo.kids, .menu.logo.naturals {
+margin-left: 15px;
+        margin-right: 0;
+}
+.menu.logo.naturals {
+    margin-right: 9%;
+}
+    #main>.container, #breadcrumb+div.container {
+        width: 940px;
+    }
+
+    body.kids:after, body.kids:before, body.kids #header:after, body.kids #header:before {
+        display: none;
+    }
+
+.single-post .span10 {
+    width: 80%;
+}
+form.navbar-form.form-search.pull-right {
+    width: 89%;
+    margin-right: 8%;
+    width: 100%;
+    margin-right: 7%;
+    margin-top: 3%;
+}
+.form-search input[type='text'] { /* search en ipads */
+        width: 27%;
+    float: right;
+  /*  opacity: 0.5;*/
+    margin-top: -15px;
+    margin-bottom: 12px;
+}
+.form-search .btn-search {
+        top: -12px;
+}
+.menuWrapper {
+    display: none;
+}
+#youtube_footer {
+    width: 100%;
+    padding: 0 3%;
+    box-sizing: border-box;
+}
+.video-item {
+    height: 140px;
+}
+.media-viewer iframe {
+height: 280px;
+        width: 500px;
+}
+.page-id-1210 .personaje h3+p {
+    height: 14em;
+    padding-right: 0;
+}
+.page-id-1210 #personajes {
+    padding: 64px 3% 30px;
+}
+.page-id-1210 h3 {
+    font-size: 1.1em!important;
+    letter-spacing: 0!important;
+}
+.page-id-4 .single-article-detail, .page-id-1207 .single-article-detail {
+    padding: 25px 4%;
+}
+
+.page-id-4 .personaje {
+    margin: 20px 2%;
+    width: 21%;
+}
+.page-id-4 h4 {
+    line-height: 1.2em;
+}
+.destacado {
+    margin-left: -2%;
+    width: 104%;
+    padding: 23px 14%;
+}
+.consejo h4 {
+    height: 3em;
+}
+.category-acertijos ul.thumbnails.teasers li p, .category-sabias-que ul.thumbnails.teasers li p, .category-dato-curioso ul.thumbnails.teasers li p {
+    font-size: 1em!important;
+    line-height: 1.5em;
+}
+.frutilla h4 {
+    font-size: 0.9em;
+}
+.materiales h4 {
+font-size: 1.3em;
+    margin-bottom: 0;
+    margin-top: 7px;
+}
+.single-post .span10 ul li {
+    font-size: 1em;
+    line-height: 1.1em;
+}
+.category-acertijos ul.thumbnails.teasers, .category-sabias-que ul.thumbnails.teasers, .category-dato-curioso ul.thumbnails.teasers {
+    padding: 22px 0 20px;
+}
+
+#home .teasers {
+    padding: 23px 4% 0;
+}
+#product section.span10 {
+margin: 0;
+}
+.category-tips ul.thumbnails {
+    padding: 9px 4%;
+    margin: 0;
+}
+.category-tips h3 {
+    padding-left: 7%;
+}
+.category-tips .teaser5 .media-body p {
+    line-height: 1.3em;
+    font-size: 1.2em;
+}
+} 
+
+@media (max-width: 1020px) {
+.single-post .span10 {
+    width: 100%;
+    margin-right: 0;
+        margin-top: 0;
+}
+.single-post .span10:before {
+    display: none;
+}
+.single-post aside.span2 {
+        margin-left: 4%;
+    width: 94.5%;
+    margin-top: 40px;
+    padding-left: 0;
+}
+    #main>.container, #breadcrumb+div.container {
+        width: 100%;
+    }
+
+    button.btn-navbar {
+    z-index: 10;
+    position: relative;
+    }
+
+    #first {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    z-index: 1;
+    } 
+}     
+@media (max-width: 767px) {
+body {
+    width: 100%;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar .btn-navbar {
+    background: url(/wp-content/uploads/sites/68/2021/04/menu-icon2.png) no-repeat scroll 4px 7px transparent;
+}
+.navbar .btn-navbar:hover {
+    background-position: calc(100% - 2px) 7px;
+}
+
+#main .span10 {
+        margin-top: 0;
+    padding-top: 0;
+}
+.row {
+    margin-left: 0;
+}
+.frutilla, .materiales {
+        margin-left: 0;
+    margin-top: 0;
+    width: 100%;
+    float: none;
+}
+.materiales .dummy {
+    margin-top: 77.5%;
+}
+.lista_materiales {
+    width: 89%;
+}
+.como {
+padding: 0; 
+}
+.como_contenido {
+    padding: 25px 4% 35px;
+    background-position-y: 0!important;
+    background-position-x: -15px!important;
+}
+.menu_tips {
+display: block;
+    margin-bottom: 40px;
+}
+.menu_tips a {
+    color: white;
+    background: #db325d;
+    font-family: 'azo-sans-uber', cursive;
+    padding: 5px 20px;
+    margin: 5px;
+    display: block;
+    text-align: center;
+}
+
+.menu_tips a.active {
+        background: #f16b74; 
+}
+.single-post aside.span2 {
+margin-top: 20px;
+}
+
+.category-acertijos #header, .category-dato-curioso #header, .category-sabias-que #header, .single-post #header, .page-id-4 #header, .page-id-1397 #header, body.page-template-article_landing #header, body.page-id-1210 #header, body.page-id-1213 #header, body.page-id-1207 #header {
+    padding: 0;
+}
+a.logo.pull-left {
+    max-width: 40%;
+    float: left;
+}
+.menuWrapper {
+    position: relative;
+    right: 0;
+    bottom: 0;
+}
+.mobile-header .navbar-inner form {
+    margin-top: 5px;
+    padding-right: 0;
+}
+.form-search .btn-search {
+    top: 9px;
+    right: 5px;
+}
+.menu.logo {
+    background-image: none!important;
+    width: 100%!important;
+    margin: 0!important;
+    height: 35px!important;
+}
+
+.navbar .nav>li>a, .navbar .nav>li.menu.to-kids a {
+    color: white!important;
+    font-weight: 700!important;
+    padding: 20px 17px!important;
+    box-sizing: border-box;
+}
+.category-acertijos .navbar .nav>li>a, .category-dato-curioso .navbar .nav>li>a, .category-sabias-que .navbar .nav>li>a, .single-post .navbar .nav>li>a, .page-id-4 .navbar .nav>li>a, .page-id-1397 .navbar .nav>li>a, body.page-template-article_landing .navbar .nav>li>a, body.page-id-1210 .navbar .nav>li>a, body.page-id-1213 .navbar .nav>li>a, body.page-id-1207 .navbar .nav>li>a {
+    color: white!important;
+}
+.menu.to-naturals, .menu.to-kids {
+    margin: auto;
+}
+
+a.logo.pull-left {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 25%;
+}
+.category-acertijos a.logo.pull-left, .category-dato-curioso a.logo.pull-left, .category-sabias-que a.logo.pull-left, .single-post a.logo.pull-left, 
+.page-id-4 a.logo.pull-left, .page-id-1397 a.logo.pull-left, body.page-template-article_landing a.logo.pull-left, body.page-id-1210 a.logo.pull-left, 
+body.page-id-1213 a.logo.pull-left, body.page-id-1207 a.logo.pull-left {
+    display: none;
+}
+
+header#header:before {
+    content: url("/wp-content/uploads/sites/68/2021/04/logo_suave.png");
+    transform: scale(0.6);
+    position: absolute;
+    top: -1px;
+    
+    right: 60%;
+        left: 40%;
+}
+
+.category-acertijos header#header:before, .category-dato-curioso header#header:before, .category-sabias-que header#header:before, 
+.single-post header#header:before, .page-id-4 header#header:before, .page-id-1397 header#header:before, 
+body.page-template-article_landing header#header:before, body.page-id-1210 header#header:before, body.page-id-1213 header#header:before, 
+body.page-id-1207 header#header:before {
+    content: url("/wp-content/uploads/sites/68/2016/06/logo_kids.png");
+    transform: scale(0.35);
+    position: absolute;
+    top: -35px;
+    left: -17%;
+}
+}  
+.to-kids a, .to-naturals a {
+    color: transparent!important;
+}
+
+.navbar .nav>li.active>a {
+    color: white;
+    background: #167138;
+}
+
+.navbar .nav>li.logo.active>a, body.page-template-article_landing .navbar .nav>li.active>a {
+    color: transparent;
+    background: transparent;
+}
+
+.category-acertijos .navbar .nav>li.active>a, .category-dato-curioso .navbar .nav>li.active>a, .category-sabias-que .navbar .nav>li.active>a, .single-post .navbar .nav>li.active>a, .page-id-4 .navbar .nav>li.active>a,
+.page-id-1397 .navbar .nav>li.active>a, body.page-id-1210 .navbar .nav>li.active>a, body.page-id-1213 .navbar .nav>li.active>a, body.page-id-1207 .navbar .nav>li.active>a {
+    background: white;
+    color: #7D5190;
+}
+
+@media(max-width: 1023px) {
+    .span12 {
+        width: 100%;
+    }
+    
+    a.logo.pull-left {
+        display: none;
+    }
+    
+    .menu.logo.kids, .menu.logo.naturals {
+        margin-left: 0;
+    }
+    
+    .menu.logo.naturals {
+        margin-right: 1%;
+        margin-top: -10px;
+    }
+    
+    .single-product-detail-inner, .single-article-detail-inner {
+        padding: 1%;
+        width: 100%;
+    }
+    
+    .tax-product-category .teaser7 li.span2 {
+        width: 47%;
+    }
+    
+    .archive.category-tips .carousel img {
+        width: 100%;
+    }
+    
+    .page-id-1210 #personajes {
+        padding: 30px 0;
+        width: 100%;
+    }
+    
+    .page-id-1210 .personaje {
+        padding: 0 1%;
+        width: 30%;
+        margin: 0 1% 25px;
+    }
+    
+    .page-id-1210 .personaje:nth-child(n+4) h3+p {
+        height: 6.5em;
+    }
+    
+    .menu.to-kids, .menu.to-naturals.kids {
+        background: transparent;
+        margin-top: 0;
+        margin-left: 0;
+        margin-right: 0;
+        width: auto;
+        height: auto;
+    }
+    
+    .to-kids a {
+        color: #167138!important;
+    }
+    
+    .to-naturals a {
+        color: white!important;
+    }
+    
+    .navbar .nav>li>a {
+        padding: 0px 14px;
+        padding: 7px 14px 6px;
+        padding: 7px 10px 6px;
+        margin-top: 0!important;
+    }
+    
+    .category-acertijos .navbar .nav>li>a, .category-dato-curioso .navbar .nav>li>a, .category-sabias-que .navbar .nav>li>a, .single-post .navbar .nav>li>a, .page-id-4 .navbar .nav>li>a,
+    .page-id-1397 .navbar .nav>li>a, body.page-template-article_landing .navbar .nav>li>a, body.page-id-1210 .navbar .nav>li>a, body.page-id-1213 .navbar .nav>li>a, body.page-id-1207 .navbar .nav>li>a {
+        font-family: 'Montserrat', cursive;
+        font-size: 0.65em;
+        letter-spacing: 0.07em;
+    }
+    
+    li.menu.to-naturals a {
+        color: #7ed9a0!important;
+    }
+    
+    li.menu.to-kids a {
+        color: #7D5190!important;
+    }
+    
+    .menu.to-naturals.kids {
+        margin-left: 22.5%!important;
+    }
+    
+
+    .category-acertijos #first form .input-medium, .category-dato-curioso #first form .input-medium, .category-sabias-que #first form .input-medium, .single-post #first form .input-medium,
+    .page-id-4 #first form .input-medium, .page-id-1397 #first form .input-medium, body.page-template-article_landing #first form .input-medium, body.page-id-1210 #first form .input-medium,
+    body.page-id-1213 #first form .input-medium, body.page-id-1207 #first form .input-medium {
+        margin-right: 4%;
+        border-radius: 6px;
+        background-color: #fff;
+    }
+    
+    .form-search .btn-search { /* boton en responsive */
+       /* top: -35px;
+        right: 7%;*/
+    }
+    
+    .category-acertijos .form-search .btn-search, .category-dato-curioso .form-search .btn-search, .category-sabias-que .form-search .btn-search, .single-post .form-search .btn-search,
+    .page-id-4 .form-search .btn-search, .page-id-1397 .form-search .btn-search, body.page-template-article_landing .form-search .btn-search, body.page-id-1210 .form-search .btn-search,
+    body.page-id-1213 .form-search .btn-search, body.page-id-1207 .form-search .btn-search {
+        right: 5%;
+    }
+    
+    section.banner.clearfix {
+        width: 20%;
+        float: left;
+        padding-left: 2%;
+        box-sizing: border-box;
+    }
+    
+    section.navbar.navbar-static-top {
+        width: 100%;
+    }
+    
+    section.banner .container {
+        width: 100%;
+    }
+    
+
+    
+    .menu {
+        height: 35px;
+    }
+    
+    #header {
+        padding-top: 21px;
+    }
+    
+    body#home #menu-header-navigation, body#product.archive #menu-header-navigation, body#article.category-tips #menu-header-navigation, body.page-id-1100 #menu-header-navigation, body.page-id-1096 #menu-header-navigation,
+    body.single-products #menu-header-navigation, .search-results #menu-header-navigation {
+        padding-top: 15px;
+    }
+
+    .category-tips h3 {
+        font-size: 1.2em;
+        padding-left: 6%;
+    }
+    
+    .page-id-1210 h3, .page-id-4 h3 {
+        font-size: 0.8em!important;
+    }
+    
+    .modern-footer, section {
+        overflow: hidden;
+    }
+    
+    .media-viewer iframe {
+        height: 240px;
+        width: 430px;
+    }
+    
+    .video-item {
+        height: 120px;
+    }
+    
+    .page-id-1207 .personaje a.boton {
+        font-size: 1em;
+        padding: 10px 10px 7px;
+    }
+    
+    .row {
+        margin-left: 0;
+        width: 100%;
+    }
+    
+    .span12 {
+        width: 100%;
+        box-sizing: border-box;
+        margin: 0;
+    }
+    
+    .category-acertijos ul.thumbnails.teasers li, .category-sabias-que ul.thumbnails.teasers li, .category-dato-curioso ul.thumbnails.teasers li {
+        margin-right: 5%;
+    }
+    
+    .category-acertijos ul.thumbnails.teasers li {
+        margin-right: 2%;
+        margin-left: 1.5%;
+    }
+    
+    .article-landing .teasers {
+        padding: 0 2% 31px;
+    }
+    
+    body.page-template-article_landing .carousel {
+        width: 100%;
+        margin-left: 0;
+    }
+    
+    #home .teasers {
+        padding: 23px 2% 0;
+        box-sizing: border-box;
+    }
+}
+@media (min-width: 788px) and (max-width: 1027px)
+  .navbar .nav>li>a {
+
+    white-space: nowrap;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px !important;
+    color: rgba(255,255,255,1);
+}
+
+@media(max-width: 767px) {
+    .menu, .menu.logo {
+        height: 55px!important;
+    }
+
+
+
+    #header {
+        padding-top: 12px;
+        padding-top: 0;
+        background: #176938;
+    }
+
+    .form-search input[type='text'] {
+        width: 98%;
+        float: right;
+        margin-top: 4px;
+        margin-bottom: 8px;
+        margin-right: 0;
+        opacity: 1;
+    }
+    
+    body#home .form-search input[type='text'], body#product.archive .form-search input[type='text'], body#article.category-tips .form-search input[type='text'], body.page-id-1100 .form-search input[type='text'],
+    body.page-id-1096 .form-search input[type='text'], body.single-products .form-search input[type='text'], .search-results .form-search input[type='text'] {
+        width: 97%;
+        margin-bottom: 9px;
+        opacity: 1;
+    }
+
+    .form-search .btn-search {
+        top: 9px;
+        right: 6%;
+    }
+    
+    .category-acertijos .form-search .btn-search, .category-dato-curioso .form-search .btn-search, .category-sabias-que .form-search .btn-search, .single-post .form-search .btn-search,
+    .page-id-4 .form-search .btn-search, .page-id-1397 .form-search .btn-search, body.page-template-article_landing .form-search .btn-search, body.page-id-1210 .form-search .btn-search,
+    body.page-id-1213 .form-search .btn-search, body.page-id-1207 .form-search .btn-search {
+        right: 2%;
+    }
+    
+    .menu.to-naturals.kids {
+        margin-left: 0!important;
+    }
+    
+    .carousel-control {
+        display: none;
+    }
+    #home .teasers .span4 {
+        width: 55%;
+    }
+
+    #home .teasers {
+        padding: 23px 0;
+    }
+    
+    .tax-product-category .teaser7 li.span2 {
+        width: 75%;
+        float: none;
+        margin: 0 auto 20px;
+    }
+
+    .teaser7 li.span2 .thumbnail, .search-list .thumbnails .span3 .thumbnail {
+        border: none;
+    }
+    
+    .article-landing .teasers {
+        padding: 30px 2%;
+        padding: 0;
+    }
+    
+    .teasers .span4 {
+        width: 19%;
+        width: 54%;
+        margin: 0 auto 10px;
+        display: block;
+        vertical-align: middle;
+    }
+    
+    .page-id-1207 .personaje {
+        width: 80%;
+        margin: 0 10% 25px;
+    }
+    
+    .page-id-4 .personaje, .page-id-4 .personaje:last-child, .consejo {
+        margin: 20px auto;
+        width: 90%;
+        display: block;
+        padding: 0;
+    }
+    
+    .page-id-4 .personaje img {
+        width: 82%;
+        display: block;
+        margin: auto;
+    }
+    
+    .consejo {
+        float: none!important;
+    }
+    
+    .destacado {
+        margin-left: 0;
+        width: 99%;
+        padding: 23px 7%;
+    }
+    
+    .page-id-1210 .personaje {
+        width: 80%;
+        margin: 0 10% 25px;
+    }
+    
+    ol.carousel-indicators {
+        margin-top: 10px;
+    }
+    
+    ol.carousel-indicators li {
+        width: 10px;
+        height: 10px;
+    }
+    
+    body.page-template-article_landing ol.carousel-indicators {
+        margin-top: 10px;
+        top: 0;
+        right: 0;
+    }
+    
+    .social_footer, .social_footer+p {
+    padding-left: 0px;
+    padding-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    
+    li.unilever.logo {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    .modern-footer {
+        padding-top: 20px;    
+    }
+    
+    .modern-footer li {
+        border: none;
+    }
+    
+    .navbar .btn-navbar {
+       /* background-color: #419533;*/
+        height: 42px;
+        height: 50px;
+        width: 50px;
+        /*margin-left: 1.7%;*/
+        margin-right: 0;
+        margin-top: 0;
+    }
+    
+    .category-acertijos .navbar .btn-navbar, .category-dato-curioso .navbar .btn-navbar, .category-sabias-que .navbar .btn-navbar, .single-post .navbar .btn-navbar,
+    .page-id-4 .navbar .btn-navbar, .page-id-1397 .navbar .btn-navbar, body.page-template-article_landing .navbar .btn-navbar, body.page-id-1210 .navbar .btn-navbar,
+    body.page-id-1213 .navbar .btn-navbar, body.page-id-1207 .navbar .btn-navbar {
+        background-color: #724983!important;
+    }
+    
+    .navbar .btn-navbar:hover, .navbar .btn-navbar:focus, .navbar .btn-navbar:active, .navbar .btn-navbar.active, .navbar .btn-navbar.disabled, .navbar .btn-navbar[disabled] {
+        /*background-color: #419533;*/
+        border: none;
+        outline: none;
+    }
+    
+    body#home #menu-header-navigation, body#product.archive #menu-header-navigation, body#article.category-tips #menu-header-navigation, body.page-id-1100 #menu-header-navigation,
+    body.page-id-1096 #menu-header-navigation, body.single-products #menu-header-navigation, .search-results #menu-header-navigation {
+        padding-top: 25px;
+        position: absolute;
+top: -1px;
+    }
+    
+    .navbar .btn-navbar { /* para que flote a la derecha */
+        float: left !important;
+       /* float: right; */
+    }
+    
+    #product .item {
+        overflow: hidden;
+        width: 80%;
+        margin: auto;
+        height: 300px;
+    }
+    
+    #product .item figure {
+        width: 320%;
+        margin-left: -16%;
+    }
+    
+    .archive .item figure {
+        width: 290%;
+        margin-left: -96%;
+    }
+    
+    .archive .item {
+        width: 80%;
+        margin: 35px auto 5px;
+        height: 190px;
+        overflow: hidden;
+    }
+    
+    .category-tips h3 {
+        padding-left: 12%;
+        margin-bottom: 15px;
+    }
+    
+    .category-tips .teaser5 .media-body p {
+        min-height: 12em;
+    }
+    
+    .media-viewer {
+        float: none!important;
+    }
+    
+    .media-viewer iframe {
+        height: 184px;
+        width: 320px;
+        margin: 0 auto;
+        display: block;
+        float: none;
+    }
+    
+    #yt-container {
+        width: 320px;
+        margin: auto;
+    }
+    
+    .video-item {
+        height: 97px;
+    }
+    
+    .pagination {
+        text-align: center;
+    }
+    
+    .pagination span {
+        margin: 0 20px;
+    }
+    
+    .page-id-1397 p>a {
+        margin: 23px 30% 50px;
+    }
+    
+    .category-acertijos .navbar .nav>li.active>a, .category-dato-curioso .navbar .nav>li.active>a, .category-sabias-que .navbar .nav>li.active>a, .single-post .navbar .nav>li.active>a, .page-id-4 .navbar .nav>li.active>a, .page-id-1397 .navbar .nav>li.active>a, body.page-id-1210 .navbar .nav>li.active>a, body.page-id-1213 .navbar .nav>li.active>a, body.page-id-1207 .navbar .nav>li.active>a {
+        color: #7D5190!important;
+    }
+    
+    .page-id-1210 .personaje h3+p, .page-id-1210 .personaje:nth-child(n+4) h3+p {
+        height: auto;
+        padding-bottom: 20px;
+    }
+    
+    .page-id-1210 .boton, .page-id-1207 .personaje a.boton {
+        width: 60%;
+        font-size: 1.2em;
+        padding: 14px 0 12px;
+    }
+    
+    .page-id-1207 .personaje a.boton {
+        width: 82%;
+        margin: auto;
+    }
+    
+    .category-acertijos h3, .category-dato-curioso h3, .category-sabias-que h3, .single-post h3, .page-id-4 h3,
+    .page-id-1397 h3, body.page-template-article_landing h3, body.page-id-1210 h3, body.page-id-1213 h3, body.page-id-1207 h3 {
+        letter-spacing: 0.1em!important;
+        font-size: 1.3em!important;
+    }
+    
+    .category-sabias-que .dibujo, .category-acertijos .dibujo, .category-dato-curioso .dibujo {
+        display: none;
+    }
+    
+    .category-acertijos ul.thumbnails.teasers li, .category-sabias-que ul.thumbnails.teasers li, .category-dato-curioso ul.thumbnails.teasers li,
+    .category-sabias-que ul.thumbnails.teasers li:last-child, .category-dato-curioso ul.thumbnails.teasers li:last-child {
+        width: 85%;
+        margin: auto;
+        display: block;
+        float: none;
+    }
+    
+    #article ul.teasers {
+        counter-reset: section; 
+    }
+    
+    #article .teasers li:before {
+        counter-increment: section;
+        content: counter(section);
+        font-family: 'azo-sans-uber', cursive;
+        color: #00c300;
+        background: white;
+        font-size: 1.4em;
+        line-height: 2em;
+        height: 2em;
+        width: 2em;
+        display: inline-block;
+        border-radius: 50%;
+        margin-top: 30px;
+    }
+    
+    .category-acertijos .cat-desc p, .category-dato-curioso .cat-desc p, .category-sabias-que .cat-desc p {
+        font-size: 2em;
+        width: 100%;
+    }
+    
+    #article.category-dato-curioso .teasers li:before {
+        color: #15acdb;
+    }
+    
+    #article.category-acertijos .teasers li:before {
+        color: #d31f38;
+        margin-bottom: 15px;
+    }
+    
+    .category-acertijos ul.thumbnails.teasers li h3+p+p {
+        height: auto;
+    }
+} 
+
+.btn_conocelos {
+    display: none;
+}
+
+@media(max-width: 767px) {
+.page-id-1207 .personaje h3+p, .page-id-1207 .personaje:nth-child(n+4) h3+p {
+        /*display: none;*/
+    }
+.boton_teaser_home {height: auto; }
+    
+    .page-id-1207 .boton, .page-id-1207 .personaje a.boton {
+        margin-top: 20px;
+    }
+    
+    .page-id-1207 p.desplegable {
+        position: relative;
+        margin-top: 0;
+        background: #7e528f;
+        color: white;
+        padding: 20px;
+        width: 124%;
+        margin-left: -20%;
+        margin-bottom: 0;
+        width: 104%;
+        margin-left: -10%;
+        display: none;
+    }
+    
+    .page-id-1207 .personaje .info+p br {
+        display: none;
+    }
+    
+    .page-id-1207 .personaje .info+p a {
+        width: 50%;
+        display: inline-block;
+        float: left;
+    }
+    
+    .page-id-1207 .personaje .info+p a.boton {
+        width: 90%;
+        float: none;
+        margin-top: 14px!important;
+    }
+    
+    .page-id-1207 .personaje p img:last-child {
+        width: auto;
+        margin: 20px 0;
+        height: 100px;
+    }
+    
+    .page-id-1207 .personaje .desplegable:before {
+        content: "";
+        display: block; 
+        width: 0;
+        height: 0;
+        border-style: solid;
+        border-width: 0 17px 17px 17px;
+        position: absolute;
+        top: -15px;
+        left: 45%;
+    }
+    
+    .page-id-1207 .desplegable:before {
+        border-color: transparent transparent #7e528f transparent;
+    }
+    
+    .btn_conocelos {
+        display: block;
+        background: #00c200;
+        color: white;
+        border: none;
+        font-family: 'azo-sans-uber', cursive;
+        font-size: 1.7em;
+        letter-spacing: 0.05em;
+        margin: 20px auto 0;
+        padding: 14px 33px 17px;
+        border-radius: 7px;
+    }
+    
+    .frutilla .btn_conocelos {
+        background: #ff2967;
+    }
+    
+    .coco .btn_conocelos {
+        background: #d11f35;
+    }
+    
+    .sandia .btn_conocelos {
+        background: #0098d2;
+    }
+    
+    .page-id-1207 .personaje .info {
+        min-height: 0;
+    }
+    
+    .page-id-1207 .personaje h3+p {
+        margin-bottom: 0;
+    }
+}  
+
+.lista-faq.paginado {
+    padding: 40px 30px;
+}
+
+.faq-txt h3 {
+    font-family: 'Montserrat', cursive;
+    color: #167138;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+.single-products .faq-txt p {
+    font-weight: 400;
+    font-size: 1em;
+}
+
+.faq-txt ul {
+    padding-left: 1%;
+}
+
+.faq-txt ul li {
+    color: #B99422;
+    font-family: Arial;
+    font-weight: 400;
+    font-size: 1em;
+    margin-bottom: 5px;
+} 
+
+.lista-faq h4 {
+    margin-top: 90px;
+    margin-bottom: -10px;
+    font-family: 'Montserrat', cursive;
+    color: #167138;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 2em;
+}   
+
+.to-kids a, .to-naturals a {
+    opacity: 0;
+}  
+
+.to-kids a, .to-naturals a, .color a {
+    color: transparent;
+}    
+
+@media(min-width: 769px) {
+    .to-kids a, .to-naturals a, .color a {
+        text-indent: -9000px;
+    }
+}
+
+#search_result #main .container {
+    padding: 40px;
+}   
+
+.carousel-control.left:hover {
+    background: url(/wp-content/uploads/sites/68/2016/06/flecha.png) no-repeat center center;
+    opacity: 0.9;
+}   
+
+.page-id-6 section.span9 {
+    width: 100%;
+}
+
+.page-id-6 section#main {
+    padding: 0px 0px 0px;
+}
+
+.page-id-6 article > h2 {
+    display: none;
+}
+
+.mezzo {
+    display: inline-block;
+    width: 49%;
+    vertical-align: top;
+margin-bottom: 1em;
+}
+
+fieldset>legend {
+    display: none;
+}
+
+.page-id-6 .contact-form h2, .page-id-6 .lista-faq.paginado {
+    padding: 0;
+text-transform: none;
+    font-family: 'Montserrat', cursive;
+    color: #167138;
+}   
+
+.page-id-6 .contact-form h2 {
+    font-size: 45px;
+    margin-top: -5em;
+    margin-left: 4em;
+    height: auto;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.page-id-6 h3 {
+    padding-left: 180px;
+    text-transform: none;
+    font-family: 'Montserrat', cursive;
+    font-size: 1.8em;
+    font-weight: 500;
+    padding-top: 1em;
+    padding-bottom: 20px;
+}
+
+.page-id-6 legend {
+    font-family: 'Montserrat', cursive;
+    color: #167138;
+    font-size: 31px;
+    font-weight: bold;
+    border: none;
+    margin-top: 2em;
+    margin-bottom: 0;
+    max-width: 40%;
+    text-align; left;
+}  
+
+.page-id-6 label.control-label {
+    text-align: left;
+    font-family: 'Montserrat', cursive;
+    color: #167138;
+    display: block;
+    float: none;
+    font-size: 22px;
+    width: 100%;
+    padding-top: 0;
+}
+
+.page-id-6 .form-horizontal .controls {
+    margin-left: 0;
+} 
+
+.page-id-6 .form-horizontal .control-group {
+vertical-align: top;
+    width: 50%;
+    display: inline-block;
+    margin-top: 22px;
+    min-height: 73px;
+    position: relative;
+    margin-bottom: 1px;
+}
+
+.page-id-6 form.form-horizontal fieldset .control-group:first-child {
+    width: 100%;
+}
+
+.page-id-6 form.form-horizontal fieldset:nth-child(14) .control-group {
+    width: 100%;
+} 
+
+.page-id-6 input[type="text"], .page-id-6 select {
+    width: 90%!important;
+padding: 19px;
+    border: none;
+height: 35px;
+    box-sizing: border-box;
+    margin-top: 5px;
+}
+
+.page-id-6 .controls.img-tooltip {
+    width: 100%;
+}  
+
+.page-id-6 .lista-faq.paginado {
+    color: #B99422;
+} 
+
+.mezzo:nth-child(2) {
+    padding-left: 4%;
+    box-sizing: border-box;
+}
+
+.page-id-6 .lista-faq.paginado {
+    color: #B99422;
+    padding-top: 1.4em;
+    font-weight: bold;
+    font-size: 15.5px;
+    padding-right: 6%;
+    line-height: 1.4em;
+}    
+
+fieldset:after {
+    content: "";
+    display: block;
+    position: relative;
+    clear: both;
+}  
+
+.page-id-6 form .help-icon {
+    position: absolute;
+    left: 85%;
+    top: 3.5em;
+}  
+
+.page-id-6 textarea {
+    width: 44%;
+    border: none;
+    resize: none;
+    margin-top: 5px;
+    height: 200px;
+}
+
+.control-group.hidden {
+    display: none!important;
+}
+
+.page-id-6 .form-horizontal>.control-group:nth-last-child(2) {
+    width: 100%;
+    text-align: center;
+}
+
+.page-id-6 input#submit {
+    background: white;
+    border: none;
+    font-family: 'Montserrat', cursive;
+    color: #167138;
+    font-weight: bold;
+    font-size: 2em;
+    padding: 15px 40px;
+} 
+
+span.help-block, label[for="corporate"] {
+    color: #B99422;
+    padding-top: 1.4em;
+    font-family: 'Montserrat', cursive;
+    font-weight: 600;
+    width: 90%;
+}
+
+.page-id-6 a {
+  color: #000;
+    font-family: inherit;
+    font-weight: bold;
+    font-family: inherit;
+    text-decoration: none;
+}        
+
+span.select-group-field {
+    width: 31%;
+    display: inline-block;  
+}
+.recaptchatable #recaptcha_response_field {
+    height: 30px;
+} 
+
+.modern-header {
+overflow: visible;
+}   
+
+#first .nav .nav a {
+    background: #167138!important;
+    color: white;
+}        
+
+/* CX contact us form CSS */
+@media only screen and (max-width: 767px){
+    .contact-us-form .contact-form .mezzo{
+        width: 100%;
+    }
+
+    .contact-us-form .contact-us-form-wp .form-horizontal .control-label{
+        margin-top: 0 !important;
+        width: 100% !important;
+    }
+
+    .contact-us-form .contact-us-form-wp .form-horizontal .controls{
+        margin-left: 0 !important;
+    }
+
+    .contact-us-form .contact-us-form-wp .group_22 p.optIns {
+        margin-left: 0 !important;
+    }
+
+    .contact-us-form .contact-us-form-wp .form-horizontal .control-group{
+        width: 100%;
+    }
+
+    .contact-us-form .contact-us-form-wp .form-horizontal select{
+        width: 90% !important;
+    }
+    
+    .contact-us-form .contact-us-form-wp .form-horizontal [type=text]{
+        width: 100% !important;
+        box-sizing: border-box;
+        height: auto;
+    }
+
+    .contact-us-form .contact-us-form-wp form fieldset .control-group.submit-container {
+        text-align: left !important;
+    }
+
+    .contact-us-form .contact-us-form-wp .codeTooltip .tooltiptextProdCode{
+        left: -7em !important;
+    }
+}
+
+@media only screen and (min-width: 1200px){
+    .contact-us-form .span9 {
+        width: 100% !important;
+    }
+}
+
+.contact-us-form .contact-us-form-wp .form-horizontal .control-label{
+    width: 100%;
+    float: center;
+    /*! margin-top: 10px; */
+    color: black;
+    text-align: center;
+}
+
+.contact-us-form .contact-us-form-wp .form-horizontal .controls{
+    margin-left: 25%;
+}
+
+.contact-us-form .mezzo{
+    width: 100%;
+    padding-left: 0!important;
+}
+
+/* .contact-us-form .mezzo h3{
+    padding-left: 30px;
+} */
+
+.contact-us-form .contact-us-form-wp .form-horizontal .control-group{
+    width: 100%;
+    display:block !important;
+}
+
+.contact-us-form .contact-us-form-wp .form-horizontal input[type="text"]:focus, .contact-us-form .contact-us-form-wp .form-horizontal textarea:focus{
+    outline: 5px auto -webkit-focus-ring-color;
+    outline-offset: -2px;
+}
+
+.contact-us-form .contact-us-form-wp .form-horizontal .tooltiptextProdCode, .contact-us-form .contact-us-form-wp .form-horizontal .tooltiptextBarCode{
+    border: 5px solid #167138 !important;
+}
+
+.contact-us-form .contact-us-form-wp .form-horizontal .group_20 textarea{
+    width: 60%;
+    box-sizing: border-box;
+    display: none;
+}
+
+.contact-form .contact-us-form-wp select, .contact-form .contact-us-form-wp textarea, .contact-form .contact-us-form-wp input[type="text"]{
+    font-size: 16px;
+     display: block !important;
+}
+
+.contact-form .contact-us-form-wp select{
+    padding-top: 16px;
+    height: 55px;
+    width: 60% !important;
+    display: block !important;
+    text-align: center;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.contact-form .contact-us-form-wp input[type="text"] {
+    height: 55px;
+    width: 60% !important;
+}
+
+.contact-us-form .contact-us-form-wp .ocaCaptchaIcons {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.contact-us-form .contact-us-form-wp form fieldset .control-group.submit-container{
+    width: 100%;
+    text-align: center;
+}
+
+.contact-us-form .contact-us-form-wp input[type="submit"], .contact-us-form .contact-us-form-wp input#browse, .contact-us-form .contact-us-form-wp button[type="submit"]{
+    background: white;
+    border: none;
+    font-family: 'Montserrat', regular;
+    color: #167138;
+    font-weight: bold;
+    font-size: 2em;
+    padding: 15px 40px;
+}
+
+.contact-us-form .contact-us-form-wp .form-horizontal .error{
+    margin-left: 0;
+    margin-top: 10px;
+    display: table;
+}
+
+.contact-form .contact-us-form-wp .form-horizontal .group_5 div.error{
+    white-space: normal;
+}
+
+.contact-us-form .contact-us-form-wp .group_21 label{
+    color:  #B99422;
+}
+
+.contact-us-form .contact-us-form-wp .group_22 p.optIns{
+    color:  #B99422;
+    margin-left: 20%;
+    text-align: center;
+    margin-right: 20%;
+}
+
+.contact-us-form .contact-us-form-wp .group_22 p.optIns a.optInLinks{
+    border-bottom: none !important;
+    color: black;
+}
+
+.contact-us-form .contact-us-form-wp .codeTooltip .tooltiptextProdCode{
+    left: 3em;
+}
+
+.contact-us-form .contact-us-form-wp .submit-group{
+    float: left;
+} 
+
+.contact-us-form .contact-us-form-wp .form-horizontal .codeTooltip{
+    color: rgb(22, 113, 56) !important;
+    border-color: rgb(22, 113, 56) !important;
+}         
+
+.boton_teaser_home{
+border: 1px solid #f6b70e;
+background: #f6b70e;
+color: #583522;
+text-transform: uppercase;
+font-family: 'Montserrat', regular;
+text-decoration: none;
+width: 200px;
+font-size: 16px;
+font-weight: regular;
+padding: 8px 0;
+text-align: center;
+display: inline-block;
+border-radius: 4px;
+-moz-border-radius: 4px;
+-webkit-border-radius: 4px;
+text-shadow: 1px 1px 1px #666;
+-moz-box-shadow: 0 1px 3px #111;
+-webkit-box-shadow: 0 1px 3px #111;
+box-shadow: 0 1px 3px #111;
+background: #f4c203; /* old browsers */
+background: -moz-linear-gradient(top, ##f4c203 0%, #fd982e 100%); /* firefox */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f4c203), color-stop(100%,#fd982e)); /* webkit */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f4c203', endColorstr='#fd982e',GradientType=0 ); /* ie */
+}
+
+.shampoo_y_acondicionador_title{
+color: #482824;
+text-transform: capitalize;
+font-family: 'Montserrat', regular;
+text-decoration: none;
+width: 100%;
+font-size: 16px;
+font-weight: regular;
+padding: 10px 0;
+padding-bottom: 25px;
+text-align: center;
+display: block;
+}
+            
+.barra_title{
+color: #482824;
+text-transform: capitalize;
+font-family: 'Montserrat', regular;
+text-decoration: none;
+width: 100%;
+font-size: 16px;
+font-weight: regular;
+padding: 10px 0;
+padding-bottom: 25px;
+text-align: center;
+display: block ;
+} 
+
+.liquido_title{
+color: #482824;
+text-transform: capitalize;
+font-family: 'Montserrat', regular;
+text-decoration: none;
+width: 100%;
+font-size: 16px;
+font-weight: regular;
+padding: 10px 0;
+padding-bottom: 25px;
+text-align: center;
+display:block;
+}      
+
+.container {
+position: relative;
+text-align: center;
+color: #ffffff;
+
+
+}
+.img container{
+
+width: 50%;
+}
+
+.middle-right {
+position: absolute;
+color: green;
+bottom: 60px;
+right: 20px;
+padding-left: 500px;
+padding-right: 0px;
+}
+
+.container h2{
+    color: #167138;
+    font-size: 31px;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+
+
+}
+
+.container h3{
+    color: #047c3c;
+    font-size: 22px;
+    font-family: 'Montserrat', regular;
+    font-weight: 20;
+}
+.btn-success{
+border: 1px solid #ffffff;
+background: #024d25;
+color: #ffffff;
+text-transform: capitalize;
+font-family: 'Montserrat', regular;
+text-decoration: none;
+width: 250px;
+font-size: 16px;
+font-weight: regular;
+padding: 8px 0;
+text-align: center;
+display: inline-block;
+border-radius: 4px;
+-moz-border-radius: 4px;
+-webkit-border-radius: 4px;
+text-shadow: 1px 1px 1px #666;
+-moz-box-shadow: 0 1px 3px #111;
+-webkit-box-shadow: 0 1px 3px #111;
+box-shadow: 0 1px 3px #111;
+}
+
+  	.middle-left-mobile{
+    display: none;
+  }
+  
+                                                                                
+  	.middle-right-mobile{
+    display: none;
+  }
+
+@media all and (max-width: 1270px) {
+	.middle-right{
+	  display: none;
+
+		}
+  	.middle-left-mobile{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  }
+
+h4 {
+    font-family: 'Montserrat', regular !important;
+    
+}
+  
+  .middle-left{
+	  display: none;
+
+		}
+   	.middle-right-mobile{
+    display: block;
+       padding-left: 2%;
+  	padding-right: 2%;
+  }
+  
+}                        
+
+#left-nav-btn {
+ display: none !important;
+}  
+
+@media (min-width: 1201px) and (max-width: 1475px) {
+    .navbar .nav {
+        float: none;
+        position: absolute;
+        top: 50%;
+        left: 2%;
+        transform: translate(0%, 0%);
+        width: 1000px;
+}
+#first form .input-medium {
+    width: 190px !important;
+}
+}
+@media (min-width: 1025px) and (max-width: 1200px) {
+    .navbar .nav {
+        float: none;
+        position: absolute;
+        top: 50%;
+        left: 2%;
+        transform: translate(0%, 0%);
+        width: 1000px;
+   
+}
+#first form .input-medium {
+    width: 180px !important;
+}
+}
+
+@media (min-width: 770px) and (max-width: 1024px) {
+    .navbar .nav {
+        float: none;
+        position: absolute;
+        top: 39%;
+        left: 2%;
+        transform: translate(0%, 14%);
+        width: 1000px;
+}
+.navbar-form input, .navbar-form select, .navbar-form .radio, .navbar-form .checkbox {
+    margin-top: 15px;
+}
+.form-search input[type="text"] {
+    width: 27%;
+    float: right;
+
+    margin-top: 1px;
+    margin-bottom: -37px;
+}
+.form-search .btn-search {
+    top: 5px;
+    right:-2%;
+}
+#first form .input-medium {
+    width: 150px !important;
+}
+.navbar .nav > li > a {
+   
+    text-align: center !important;
+}
+.navbar .nav-collapse ul.nav ul {
+    border: none;
+    background: #167138;
+    z-index: 1;
+    width: 22%;
+    top: 52%
+   
+}
+.container{
+    position:unset;}
+  
+  
+  
+  
+  
+  
+
+}
+
+@media (min-width: 1px) and (max-width: 769px) {
+
+.navbar .nav-collapse ul.nav ul {
+    border: none;
+    background: #167138;
+    z-index: 2;
+    width: 2px;
+}
+
+}
+
+.nav-collapse.collapse {
+    overflow: auto !important;
+max-height: 100% !important;
+margin-right: -100px !important;
+padding-right: 100px !important;
+} 
+
+.centrado{
+    position: absolute;
+    top: 42%;
+    left: 40%;
+    transform: translate(-123px, -132px);
+    Display: block;
+   
+}
+
+.contenedor-teaser1{
+    position: relative;
+    display: table;
+    text-align: justify;
+}
+
+.tips_letra{
+    font-size: 24px !important;
+    text-align: start;
+    color:white;
+    transform: translate(20px,-25px);
+
+}
+
+.tips_letra_numero{
+    position: relative;
+  top: 31px;
+  left: -74px;
+  font-family: 'Montserrat', regular;
+  font-size:93px;
+
+}     
+.seccion1{
+column-count: 2;
+display: inline-flex;
+margin: auto;
+width: 100%;
+}
+
+.tips_letra_bloquechico {
+    transform: translate(29px,-23px);
+    position: ;
+    text-align: start;
+  }
+
+.centrado_numero1{ transform: translate (-122px,-99px) !important}
+
+
+@media (min-width: 1655px) and (max-width: 2000px){
+.centrado {
+    position: absolute;
+    top: 42%;
+    left: 25%;
+    transform: translate(-72px, -89px);
+    Display: block;
+ }
+.tips_letra_numero {
+    position: relative;
+  top: 31px;
+  left: -58px;
+  font-family: 'Montserrat', regular;
+  font-size:93px;
+
+}
+ #subir_texto_5 {
+  top: 165px !important;
+} 
+  #subir_texto_6 {
+  top: 170px !important;
+}
+  
+  #margen_numero_diez_ {
+  font-size: 89px !important;
+  margin-left: -21px;
+}
+  
+ .seccion1{
+  width: 80%;
+} 
+  
+
+}
+
+
+@media (min-width: 1414px) and (max-width: 1654px){
+    .tips_letra{
+    font-size:21px !important;
+  }  
+  .seccion1{
+  width: 80%;
+}
+  
+.centrado {
+    position: absolute;
+    top: 42%;
+    left: 27%;
+    transform: translate(-64px, -69px);
+    Display: block;
+   
+}
+.tips_letra_numero {
+    position: relative;
+  top: 31px;
+  left: -54px;
+  font-family: 'Montserrat', regular;
+  font-size:93px;
+
+}
+#subir_texto_5 {
+  top: 134px !important;
+}
+#subir_texto_6 {
+  top: 137px !important;
+}
+#margen_numero_diez_ {
+  font-size: 83px !important;
+  margin-left: -19px;
+}  
+}
+ @media (min-width: 1381px) and (max-width: 1413px) {
+      
+  .tips_letra_numero {
+    position: relative;
+  top: 31px;
+  left: -58px;
+  font-family: 'Montserrat', regular;
+  font-size:93px;
+
+}
+  
+  .tips_letra
+{font-size: 22px !important;
+transform: translate (16px,-27px);
+text-align: start;}
+
+.centrado{top:51%;
+    left:0%;
+    transform: translate(81px, -118px);
+    width: 80%;}
+
+
+.seccion1{
+  width: 100%;
+}
+#subir_texto_5 {
+  top: 189px !important;
+}
+
+#subir_texto_6 {
+  top: 192px !important;
+}
+
+#margen_numero_diez_ {
+  margin-left: -16px;
+  font-size: 87px;
+}
+
+
+}
+
+
+ @media (min-width: 1300px) and (max-width: 1380px) {
+  
+ .tips_letra_numero {
+    position: relative;
+  top: 31px;
+  left: -68px;
+  font-family: 'Montserrat', regular;
+  font-size:93px;
+
+}
+  
+  
+  #subir_texto {
+  position: absolute;
+  top: 169px;
+}
+
+
+ .centrado{top:58%;
+            left:34%;
+            transform: translate (-46px, -74px);
+            position: absolute;
+            width: 77%;}
+          
+
+        .tips_letra{ font-size: 19px !important;
+        text-align: start;}
+  
+  
+  .seccion1 {
+  width: 100%;
+}
+#subir_texto_5 {
+  top: 223px !important;
+}
+#subir_texto_6 {
+  top: 225px !important;
+} 
+#margen_numero_diez_ {
+  margin-left: -8px;
+    font-size:80px;
+}  
+  
+.tips_letra {
+    font-size: 21px !important;
+    text-align: start;
+    color:white;
+    transform: translate(20px,-25px)
+
+}  
+  
+         } 
+  
+  
+
+ @media (min-width: 1253px) and (max-width: 1299px) {
+ 
+#subir_texto {
+  position: absolute;
+  top: 169px;
+}
+  
+#margen_numero_diez_ {
+  padding: ;
+  margin-left: -16px;
+}  
+
+
+ .centrado{top:58%;
+            left:41%;
+            transform: translate (-169px, -132px);
+            position: absolute;
+            width: 71%;}
+          
+
+        .tips_letra{ font-size: 20px !important;
+        text-align: start;}
+  
+  
+  .seccion1 {
+  width: 100%;
+}
+#subir_texto_5 {
+  top: 70% !important;
+}
+#subir_texto_6 {
+  top: 71% !important;
+}  
+#numero9 {
+top: 68%;
+}
+#numero10 {
+top: 66%;
+}
+
+  
+         } 
+@media (min-width: 1151px) and (max-width: 1252px) {
+  
+
+  #numero7 {
+  top: 29px;
+}
+  
+  .tips_letra_numero {
+    position: relative;
+  top: 31px;
+  left: -52px;
+  font-family: 'Montserrat', regular;
+  font-size:84px;
+
+}
+  
+  
+#subir_texto {
+  position: absolute;
+  top: 176px;
+}
+
+#margen_numero_diez_ {
+  padding: ;
+  margin-left: -7px;
+}
+
+
+
+.centrado {
+    top: 61%;
+    left: 21%;
+    transform: translate(-29px, -132px);
+  }
+  
+  .tips_letra {
+
+  font-size: 19px !important;}
+
+#margen_numero_diez_ {
+  margin-left: -8px !important;
+  font-size: 70px !important;
+}
+ #subir_texto_5 {
+  top: 72% !important;
+}
+  
+#subir_texto_6 {
+  top: 70% !important;
+}
+#numero9 {
+top: 69% !important;
+}
+#numero10 {
+top: 69% !important;
+}  
+
+
+}
+
+@media (min-width: 1122px) and (max-width: 1150px) {
+  
+
+#subir_texto {
+  position: absolute;
+  top: 109px;
+}
+
+
+.tips_letra{
+      font-size:18px !important;
+      transform: translate (-137px, -89px)
+        }
+      .tips_letra_numero{ 
+          font-size: 74px;}
+.centrado {
+    top: 45%;
+    left: 36%;
+    transform: translate(-92px, -67px);
+  }
+  .tips_letra_numero{
+    left:-47px;}
+
+#subir_texto_2 {
+  top: 45 !important;
+}
+  
+#subir_texto_5 {
+  top: 50% !important;
+}
+  
+#subir_texto_6 {
+  top: 50% !important;
+}
+  
+#margen_numero_diez_ {
+  margin-left: -11px;
+  font-size:68px;
+}  
+
+
+
+}
+
+@media (min-width: 1061px) and (max-width: 1121px) {
+  
+  
+
+#subir_texto {
+  position: absolute;
+  top: 166px;
+}
+
+
+.tips_letra{
+      font-size:17px !important;}
+      .tips_letra_numero{
+          font-size: 74px;
+      }
+  .centrado{
+    transform: translate(-68px, -140px);
+    top: 70%;
+    left: 34%;
+  }
+  
+  .tips_letra_numero {
+          font-size: 74px;
+          top: 29px;
+left:-56px;
+      }
+#subir_texto_5 {
+  top: 80% !important;
+}
+#subir_texto_6 {
+  top: 80% !important;
+}
+#subir_texto_7 {
+  top: 73% !important;
+}
+#numero7 {
+  top: 21px !important;
+}
+
+#numero9{
+    top:70% !important;
+}
+
+#numero10{
+    top:70% !important;
+}
+
+#margen_numero_diez_ {
+  margin-left: -11px !important;
+}
+
+
+  }
+
+
+
+
+@media (min-width: 991px) and (max-width: 1060px) {
+  
+  #subir_texto{
+  position:absolute;
+  top:164px;}
+  
+  
+  .tips_letra{
+      font-size:15px !important;
+    }
+      .tips_letra_numero{
+          font-size: 65px;
+          left:-41px;
+          top:19px;
+      }
+      .centrado{
+        top: 66%;
+        left:27%;
+        transform: translate(-48px, -132px);
+      }
+#subir_texto_5 {
+  top: 80% !important;
+}
+#subir_texto_6 {
+  top: 82% !important;
+}
+#numero7 {
+  top: 18px !important;
+}
+#margen_numero_diez_ {
+  margin-left: -15px !important;
+}  
+#numero9 {
+top: 78% !important;
+}
+#numero10 {
+top: 79% !important;
+}  
+  
+
+
+
+  }  
+@media (min-width: 940px) and (max-width: 990px) {
+  
+      #subir_texto{
+  position:absolute;
+  top:160px;}
+  
+  .tips_letra{
+      font-size:16px !important;}
+    
+  .tips_letra_numero{
+          font-size: 60px;
+          left: -31px;
+          top: 20px;
+      }
+      .centrado{
+        top: 70%;
+        transform: translate( -72px, -140px);
+        left:32%;
+      }
+#margen_numero_diez_ {
+  margin-left: -11px !important;
+  font-size: 50px !important;
+}
+#subir_texto_5 {
+  top: 80% !important;
+}
+  
+#subir_texto_6 {
+  top: 80% !important;
+}
+ #subir_texto_7 {
+  top: 70 !important;
+}
+#numero7 {
+  top: 16px !important;
+}  
+#numero9 {
+position: absolute;
+top: 76% !important;
+}
+#numero10 {
+position: absolute;
+top: 76% !important;
+}  
+  
+  }  
+
+
+
+
+@media (min-width: 855px) and (max-width: 939px) {
+ .tips_letra{ font-size: 14px !important;
+               text-align: start;}
+
+  .tips_letra_numero{
+
+font-size: 64px;
+left:-31px;
+top:22px;
+}
+   
+  .centrado{
+    top:69%;
+    left:30%;
+    transform: translate(-59px,-132px);
+  }
+
+#subir_texto_5 {
+  top: 80% !important;
+}
+
+#subir_texto_6 {
+  top: 80% !important;
+}
+    
+    #numero9{
+        position: absolute;
+        top:80% !important;;
+    }    
+ #numero10{
+        position: absolute;
+        top:80% !important;;
+    }    
+#margen_numero_diez_ {
+  margin-left: -12px !important;
+  font-size: 56px !important;
+}
+
+
+} 
+
+@media (min-width: 768px) and (max-width: 854px) {
+                      
+  .seccion1{ 
+             column-count: 2;
+            }
+                       
+  .tips_letra{
+             text-align: start;
+              margin: auto auto;
+              width:auto;
+               font-size: 13px !important;
+                       }
+ .tips_letra_numero{
+                    left: -29px;
+                    font-size: 60px;
+                    top:20px;
+                      } 
+  #margen_numero_diez_ {
+  margin-left: -4px;
+  font-size: 46px;
+}
+
+ .centrado {
+            top: 81%;
+            left: 29%;
+            transform: translate(-20%, -140px);}
+                     
+
+#bajar_texto {
+  top:-1px;
+  position: relative;
+}
+#subir_texto_5 {
+position: absolute;  
+top: 94% !important;
+}
+  #subir_texto_6 {
+  top: 94% !important;
+}
+#subir_texto_7 {
+ height: 83% !important;
+}
+
+  #numero7 {
+  top: 17px !important;
+}
+ #numero9{
+     top:84% !important;
+     Position:absolute;
+ }
+#numero10 {
+ position: absolute;
+ top: 83% !important; 
+}
+
+
+}
+
+
+@media (min-width: 722px) and (max-width: 767px) {
+  .seccion1{
+    column-count: 1;
+    display: grid;
+    width: 80%;
+}
+.tips_letra{
+font-size: 20px !important;
+text-align: start;
+transform: translate(20px, -250px);
+}
+.tips_letra_numero{
+font-size: 90px;
+transform: translate(-7%, -865%);
+top: 77px;
+left: -32px;
+}
+.centrado{
+top:26%;
+transform: translate(-12%, 67%)!important;
+left: 25%;
+}
+#subir_texto_2 {
+  top: 47px !important;
+}
+
+#subir_texto_4 {
+  top: 30% !important;
+}
+#subir_texto_5 {
+  top: 96px !important;
+}
+ #subir_texto_6 {
+  top: 35% !important;
+}
+#subir_texto_7 {
+  top: 95px !important;
+}
+#margen_numero_diez_ {
+  top: 87px;
+  margin-left: -19px !important;
+}  
+  
+  
+
+} 
+
+@media (min-width: 652px) and (max-width: 721px) {
+  
+                           
+  .seccion1{
+    column-count: 1;
+    display: grid;
+    width: 80%;
+}
+.tips_letra{
+font-size: 19px !important;
+text-align: start;
+transform: translate(20px, -250px);
+}
+.tips_letra_numero{
+font-size: 78px;
+transform: translate(-7%, -865%);
+top: 77px;
+left: -24px;
+}
+.centrado{
+top:26%;
+transform: translate(-12%, 67%)!important;
+left: 25%;
+}
+  
+#subir_texto_2 {
+  top: 57px !important;
+}
+  
+#subir_texto_5 {
+  top: 92px !important;
+}
+
+#subir_texto_6 {
+  top: 96px !important;
+}
+  
+#subir_texto_7 {
+  top: 98px !important;
+}
+  
+#margen_numero_diez_ {
+  margin-left: -16px !important;
+}  
+  
+}
+@media (min-width: 634px) and (max-width: 651px) {
+   .seccion1{
+    column-count: 1;
+    display: grid ;
+    width: 80%;
+}
+.tips_letra{
+font-size: 19px !important;
+text-align: start;
+transform: translate(20px, -250px);
+}
+.tips_letra_numero{
+font-size: 78px;
+transform: translate(-4%, -865%);
+top: 77px;
+left: -24px;
+}
+.centrado{
+top:26%;
+transform: translate(-7%, 61%)!important;
+left: 18%;
+}
+#margen_numero_diez_ {
+  margin-left: -16px !important;
+  font-size: 69px !important;
+}
+
+#subir_texto_4{
+    position: absolute;
+    top:30% !important;
+}
+  
+#subir_texto_2 {
+  top: 58px !important;
+}
+  
+#subir_texto_5 {
+  top: 99px !important;
+}
+  
+#subir_texto_6 {
+  top: 95px !important;
+}
+  
+#subir_texto_7 {
+  top: 100px !important;
+}  
+#numero9{
+    position:absolute;
+    top:35% !important;
+}  
+  
+}
+@media (min-width: 600px) and (max-width: 633px) {
+  
+  #subir_texto{position:absolute;
+top:101px;}
+                          
+  .seccion1{
+    column-count: 1;
+    display: grid;
+    width: 91%;
+}
+.tips_letra{
+font-size: 19px !important;
+text-align: start;
+transform: translate(20px, -250px);
+}
+.tips_letra_numero{
+font-size: 78px;
+transform: translate(-6%, -865%);
+top: 77px;
+left: -23px;
+}
+.centrado{
+top:26%;
+transform: translate(-12%, 68%)!important;
+left: 25%;
+}
+#subir_texto_5 {
+  position: absolute;
+  top: 112px !important;
+}  
+#subir_texto_6 {
+  position: absolute;
+  top: 107px !important;
+}  
+#subir_texto_7 {
+  top: 105px !important;
+}  
+#subir_texto_2 {
+  top: 48px !important;
+}  
+#margen_numero_diez_ {
+  margin-left: -19px !important;
+}  
+  
+}
+
+@media (min-width: 550px) and (max-width: 599px) {
+  .seccion1{
+    column-count: 1;
+    display: contents;
+    width: 80%;
+}
+.tips_letra{
+font-size: 18px !important;
+text-align: start;
+transform: translate(20px, -250px);
+}
+.tips_letra_numero{
+font-size: 56px;
+transform: translate(-4%, -916%);
+top: 77px;
+left: -24px;
+}
+.centrado{
+top:26%;
+transform: translate(-7%, 83%)!important;
+left: 17%;
+}
+#subir_texto_2 {
+  position: absolute;
+  top: 20% !important;
+}
+
+#subir_texto_6 {
+  top: 35% !important;
+}
+#subir_texto_7 {
+  top: 75px !important;
+}  
+  
+#subir_texto_5 {
+  top: 30% !important;
+}  
+#subir_texto_4{
+    top:25% !important;
+}  
+  
+}
+@media (min-width: 500px) and (max-width: 549px) {
+                              
+   .seccion1{
+    column-count: 1;
+    display: contents;
+    width: 80%;
+}
+.tips_letra{
+font-size: 17px !important;
+text-align: start;
+transform: translate(20px, -250px);
+}
+.tips_letra_numero{
+font-size: 41px;
+transform: translate(0%, -922%);
+top: 69px;
+left: -25px;
+}
+.centrado{
+top:26%;
+transform: translate(-8%, 86%)!important;
+left: 14%;
+}
+  #subir_texto_2 {
+  position: absolute;
+  top: 45px !important;
+}
+  #subir_texto_5 {
+  position: absolute;
+  top: 88px !important;
+}
+  
+  
+}
+@media (min-width: 450px) and (max-width: 499px) {
+  #subir_texto{
+  position:absolute;
+top:47px;} 
+
+ .seccion1{
+    column-count: 1;
+    display: contents;
+    width: 80%;
+}
+.tips_letra{
+font-size: 16px !important;
+text-align: start;
+transform: translate(20px, -250px);
+}
+.tips_letra_numero{
+font-size: 45px;
+transform: translate(-1%, -922%);
+top: 77px;
+left: -24px;
+}
+.centrado{
+top:26%;
+transform: translate(-9%, 65%)!important;
+left: 16%;
+}
+#subir_texto_1{
+top:32%}
+
+#subir_texto_5 {
+  position: absolute;
+  top: 101px !important;
+}
+#subir_texto_6 {
+  position: absolute;
+  top: 88px;
+}
+  #subir_texto_7 {
+  position: absolute;
+  top: 40% !important;
+}
+
+#numero9{
+    position:absolute;
+    top:40% !important;
+}
+
+#subir_texto_4{
+position: absolute;    
+top:33% !important;
+}
+  
+}
+@media (min-width: 400px) and (max-width: 450px) {
+
+  #subir_texto{position:absolute;
+top:49px;}
+
+.seccion1{
+    column-count: 1;
+    display: contents;
+    width: 80%;
+}
+.tips_letra{
+font-size: 16px !important;
+text-align: start;
+transform: translate(20px, -250px);
+}
+.tips_letra_numero{
+font-size: 40px;
+transform: translate(1%, -922%);
+top: 77px;
+left: -24px;
+}
+.centrado{
+top:26%;
+transform: translate(-8%, 65%)!important;
+left: 14%;
+}
+
+#subir_texto_1 {
+top: 35% !important;
+}
+
+#subir_texto_4 {
+top: 31% !important;
+}
+
+
+#subir_texto_5 {
+  position: absolute;
+  top: 85px;
+}
+  #subir_texto_6 {
+  position: absolute;
+  top: 81px;
+}
+  #subir_texto_7 {
+  position: absolute;
+  top: 78px;
+}
+  #subir_texto_2 {
+  position: absolute;
+  top: 47px;
+}
+  #margen_numero_diez_ {
+  margin-left: -5px;
+}
+
+
+}
+@media (min-width: 370px) and (max-width: 399px) {
+  .seccion1{
+  column-count: 1;
+  display: initial;
+  width: 80%;
+}
+.tips_letra{
+font-size: 15px !important;
+text-align: start;
+transform: translate(20px, -250px);
+}
+.tips_letra_numero{
+font-size: 40px;
+transform: translate(2%, -947%);
+top: 75px;
+left: -24px;
+}
+.centrado{
+top:26%;
+transform: translate(-9%, 69%)!important;
+left: 18%;
+}
+#bajar_texto{
+  position: relative;
+  top: -1px;
+
+}
+#subir_texto_1 {
+    position: absolute;
+    top: 29% !important;
+}
+
+
+#subir_texto_2 {
+  position: absolute;
+  top: 34px !important;
+}
+#subir_texto_3 {
+top: 15% !important;
+}
+
+#subir_texto_4 {
+top: 27% !important;
+}
+
+#subir_texto_5 {
+  position: absolute;
+  top: 78px !important;
+}
+  #subir_texto_6 {
+  position: absolute;
+  top: 41% !important;
+}
+  #subir_texto_7 {
+  position: absolute;
+  top: 79px;
+}
+  
+
+
+#margen_numero_diez_ {
+  margin-left: -9px;
+}
+
+
+}
+@media (min-width: 350px) and (max-width: 369px) {
+   
+#subir_texto_4{
+  }
+  
+  
+.seccion1{
+  column-count: 1;
+  display: initial;
+  width: 80%;
+}
+.tips_letra{
+font-size: 15px !important;
+text-align: start;
+transform: translate(20px, -250px);
+}
+.tips_letra_numero{
+font-size: 40px;
+transform: translate(2%, -947%);
+top: 75px;
+left: -24px;
+}
+.centrado{
+top:26%;
+transform: translate(-9%, 69%)!important;
+left: 18%;
+}
+#bajar_texto{
+  position: relative;
+  top: -1px;
+
+}
+
+#subir_texto_2 {
+  position: absolute;
+  top: 34px !important;
+}
+#subir_texto_5 {
+  position: absolute;
+  top: 78px !important;
+}
+  #subir_texto_6 {
+  position: absolute;
+  top: 93px;
+}
+  #subir_texto_7 {
+  position: absolute;
+  top: 79px;
+}
+  
+
+
+#margen_numero_diez_ {
+  margin-left: -9px;
+}
+
+
+}
+@media (min-width: 350px) and (max-width: 369px) {
+
+#subir_texto_1 {
+top: 13% !important;
+}   
+
+#margen_numero_diez_ {
+  margin-left: -6px;
+}
+
+ #subir_texto_2 {
+  top: -1% !important;
+}
+
+#subir_texto_5 {
+  position: absolute;
+  top: 20% !important;
+}
+
+#subir_texto_6 {
+  position: absolute;
+  top: 20% !important;
+}
+
+#subir_texto_7 {
+  position: absolute;
+  top: 20% !important;
+}
+
+
+#subir_texto_5 {
+  /* top: 72px; */
+  top: 93px;
+}
+
+#subir_texto_4{
+  top: 16% !important;
+  }
+
+
+.seccion1{
+  column-count: 1;
+  display: contents;
+  width: 80%;
+}
+.tips_letra{
+  font-size: 14px !important;
+text-align: start;
+transform: translate(20px, -250px);
+}
+.tips_letra_numero{
+font-size: 37px;
+transform: translate(-8%, -922%);
+font-size: 50px;
+left: -13px;
+top:74px;
+  }
+.centrado{
+top:1% !important;
+transform: translate(-23%, 75%) !important;
+left: 31%;
+}
+}
+@media (min-width: 331px) and (max-width: 349px) {
+      .seccion1{
+    column-count: 1;
+    display: contents;
+    width: 80%;
+}
+.tips_letra{
+font-size: 17px !important;
+text-align: start;
+transform: translate(20px, -250px);
+}
+.tips_letra_numero{
+font-size: 60px;
+transform: translate(-8%, -922%);
+top: 77px;
+left: -24px;
+}
+.centrado{
+top:26%;
+transform: translate(-8%, 59%)!important;
+left: 21%;
+}
+}
+                    
+.banner-contacto {
+  width:100%;
+  height:100%;
+}     
+
+.texto-contacto {
+  width:60%;
+  padding-top: 1em;
+  padding-left: 2em;
+  display: absolute;
+}
+.contenedor-contacto {
+  display: inline-block;
+  column-count: 2;
+  width: 35%;
+  margin: auto;
+  display: relative;
+}    
+.icono-llamanos {
+  margin-top: -650px;
+  display:inline-block
+} 
+
+.fieldset {
+  display: none;
+}   
+.texto-contacto{
+ margin-top:-10px;
+}   
+.redes-sociales{
+ display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+} 
+  
+.social-contacto{
+ display: inline-block;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 150px;
+}  
+.social-contacto:after {
+ display: block;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 150px;
+}
+.imagen-contacto{
+width:50%;
+}        
+.icono-rectangulo {
+ margin-top: -150px;
+}  
+.icono-redes{
+ margin-top: -400px;
+ width: 125px;
+ height:125px;
+}   
+.texto-rectangulo {
+  margin-top: -100px
+}     
+.contacto-title{
+ display:relative;
+ transform: translate(-130%, 250%);
+}    
+.contacto-text{
+ display:relative;
+ transform: translate(-100%, 170%);
+} 
+.arrow-form{
+ display:relative;
+ transform: translate(-750%, 320%);
+}  
+.contacto-form {
+ display:relative;
+ transform: translate(-105%, 240%);
+}  
+
+.h2-contact {
+ margin-left:-20px;
+}  
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700;900&display=swap');
+
+
+/* contacto */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700;900&display=swap');
+
+
+.tituloBanner{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+    color: #fff;
+    font-weight: 800;
+}
+
+.textoBanner{
+font-family: 'Montserrat', sans-serif;
+  font-size: 1.5em;
+  font-weight: 100;
+  color: #fff;
+  padding-bottom: 30px;
+}
+
+.encontranos{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5em;  
+  
+
+}
+
+@media all and (max-width: 800px) {
+  .tituloBanner{
+
+      font-size: 2em;
+    
+    }
+
+  .textoBanner{
+         font-size: 1em;
+       }
+}
+
+@media all and (max-width: 600px) {
+
+  .tituloBanner{
+
+      font-size: 2em;
+    
+    }
+
+  .textoBanner{
+         font-size: 1em;
+       }
+       .fondoBannerContacto{
+          width: 150vw !important;
+          left: 35% !important;
+       }
+}
+
+
+
+.block {
+  width: 100%;
+  display: block;
+  padding-top:20px;
+  padding: 80px 0;
+  text-align: center;
+  margin-bottom: 0px;
+  background-image: url('https://www.suave.com.ar/wp-content/uploads/sites/68/2021/05/Grupo-64@2x.png');
+  background-repeat: no-repeat;
+  background-size: 70% 100%;
+  background-position: center; 
+}
+
+.grid {
+  width: 70%;
+  max-width: 100%;
+  margin: 0 auto;
+ 
+
+}
+
+.gridBanner {
+  width: 40%;
+  max-width: 100%;
+  max-height: 100%;
+  margin: 0 auto;
+  margin-left: 25%;
+
+  padding-top: 10px;
+  text-align: center;
+}
+
+
+.gutter {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.col-33 {
+  width: 33.3%;
+  float: left;
+}
+
+.col-50 {
+  width: 50%;
+  float: left;
+
+}
+
+.col-51 {
+  width: 50%;
+  float: left;
+}
+
+.fondoCeleste{
+  background-image: url('https://www.suave.com.ar/wp-content/uploads/sites/68/2021/05/Grupo-79.png');
+  background-repeat: no-repeat;
+
+  background-position: center; 
+}
+
+.fondoNaranja{
+
+  background-image: url('https://www.suave.com.ar/wp-content/uploads/sites/68/2021/05/Grupo-64.png');
+  background-repeat: no-repeat;
+  
+  background-position: center; 
+}
+
+.fondoVerde{
+/*
+  background-image: url('https://www.suave.com.ar/wp-content/uploads/sites/68/2021/05/Grupo-64@2x.png');
+  background-repeat: no-repeat;
+  background-size: 50% 50%;
+  background-position: center; 
+*/}
+
+.fondoBannerContacto{
+
+  width: 140vw !important ;
+  position: relative !important;
+  margin-left: -50vw !important;
+  height: 100% !important;
+
+  left: 35% !important;
+  background-image: url('https://www.suave.com.ar/wp-content/uploads/sites/68/2021/05/banners-contact-us-min.jpg') !important;
+}
+.clear {
+  clear: both  !important;
+  display: block  !important;
+}.n
+
+@media all and (max-width: 800px) {
+  .col-33 {
+    width: 50%;
+  }
+}
+@media all and (max-width: 600px) {
+  .col-50, .col-33 {
+    width: 100%;
+    float: none;
+  }
+  .col-51, .col-33 {
+      width: 100%;
+      float: none;
+    }
+}
+   
+.botonVer{
+
+    box-shadow: 0px 0px 0px 0px #fff6af;
+	background:linear-gradient(to bottom, #F3C500 5%, #FF8D39 100%);
+	background-color:#F3C500;
+	border-radius:6px;
+	border:0px solid #ffaa22;
+	display:inline-block;
+	cursor:pointer;
+	color:#333333;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+
+}
+
+.botonVer:hover{
+    background:linear-gradient(to bottom, #FF8D39 5%, #F3C500 100%);
+	background-color:#FF8D39;
+}
+
+.botonVer:active{
+    position:relative;
+	top:1px;
+}
+
+.instagram {
+    background-image: ('https://www.suave.com.ar/wp-content/uploads/sites/68/2021/05/Grupo-55.png');
+}
+
+.flechita{
+    width: 23px;
+    height: 32px;
+   padding-left: 30%;
+
+}
+
+@media (max-width: 600px) {
+  .block {
+   padding: 20px 0;
+  }
+}
+
+@media (max-width: 768px) {
+  #first {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    z-index: 1;
+  }
+}                
